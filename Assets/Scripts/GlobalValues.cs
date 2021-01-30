@@ -7,9 +7,10 @@ using UnityEngine;
 public static class GlobalValues
 {
     public static int tilePrice = 2;
-    public static int tileCount = 20;
+    public static int tileCount = 24;
     public static int subjectCount = 5;
-    private static Random rng = new Random();
+    public static int tileMaxCoins = 30;
+    public static int tileMaxThreshold = 10;
 
     public struct Card_t
     {
@@ -35,13 +36,23 @@ public static class GlobalValues
         }
     }
 
+    public enum Status_t
+    {
+        OKAY = 0,
+        TILE_NOT_AVAILABLE = int.MinValue,
+        TILE_IS_DEAD
+
+        
+    };
+
     public enum DiceFaces_t
     {
         SCIENCE,
         ART,
         SPORTS,
         HUMANITIES,
-        ENTERTAINMENT
+        ENTERTAINMENT,
+        KARMA
     };
 
     public enum ScienceSubjects_t

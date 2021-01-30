@@ -4,18 +4,24 @@ using UnityEngine;
 
 public class Tiles : MonoBehaviour
 {
-    private bool isOpened;
+    private bool isFull;
     private bool isDead;
+    private bool isOpened;
     private int tilePoints;
+    private Player owner;
 
-    public Tiles(bool isOpened, bool isDead, int tilePoints)
+    public Tiles(bool isOpened, bool isDead, bool isFull, int tilePoints)
     {
-        this.isOpened = isOpened;
+        this.owner = null;
         this.isDead = isDead;
+        this.isFull = isFull;
+        this.isOpened = isOpened;
         this.tilePoints = tilePoints;
     }
 
-    public bool IsOpened { get => isOpened; set => isOpened = value; }
+    public Player Owner { get => owner; set => owner = value; }
     public bool IsDead { get => isDead; set => isDead = value; }
+    public bool IsFull { get => isFull; set => isFull = value; }
+    public bool IsOpened { get => isOpened; set => isOpened = value; }
     public int TilePoints { get => tilePoints; set => tilePoints = value; }
 }
