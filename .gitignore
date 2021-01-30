@@ -1,0 +1,7 @@
+
+*.lock
+*.ide
+Temp/
+.vs/
+Library/
+
