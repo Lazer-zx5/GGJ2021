@@ -14,10 +14,13 @@ public class Field : MonoBehaviour
         this.fieldSize = fieldSize;
         mainField = new Tiles[fieldSize];
 
-        int i = 0;
+        for (int i = 0; i < fieldSize; i++)
+            mainField[i] = new Tiles(false, false, 0);
+
+        int j = 0;
         while(playerCount-- != 0)
         {
-            mainField[i++].IsOpened = true;
+            mainField[j++].IsOpened = true;
         }
     }
 
@@ -34,6 +37,11 @@ public class Field : MonoBehaviour
                 return true;
 
         return false;
+    }
+
+    public void PutCard(GlobalValues.Card_t currentCard, int tileNumber, Player player)
+    {
+    //    if (IsTileOwner(player, )) 
     }
 
     public Tiles[] MainField { get => mainField; set => mainField = value; }

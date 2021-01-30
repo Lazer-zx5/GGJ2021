@@ -11,6 +11,8 @@ public class GameManager : MonoBehaviour
     public void InitGame(int playerCount, int fieldCount, string [] playerColors, string [] playerNames)
     {
         mainField = new Field(fieldCount, playerCount);
+        players = new List<Player>();
+        cards = new Cards();
    
         for (int i = 0; i < playerCount; i++)
         {
@@ -23,25 +25,17 @@ public class GameManager : MonoBehaviour
     public void Play()
     {
         GlobalValues.DiceFaces_t currentDiceFace = Dice.Roll();
-        switch(currentDiceFace)
-        {
-            case GlobalValues.DiceFaces_t.SCIENCE:
-                
-                break;
-            case GlobalValues.DiceFaces_t.SPORTS:
-                break;
-            case GlobalValues.DiceFaces_t.HUMANITIES:
-                break;
-            case GlobalValues.DiceFaces_t.ENTERTAINMENT:
-                break;
-            case GlobalValues.DiceFaces_t.PETS:
-                break;
-            case GlobalValues.DiceFaces_t.ART:
-                break;
+        GlobalValues.Card_t currentCard = cards.GetCard(currentDiceFace);
 
+    }
 
-        }
-        
+    private void Start()
+    {
+        string[] playerColors = { "Red", "Blue" };
+        string[] playerNames = { "1Red", "2Blue" };
+        InitGame(playerColors.Length, GlobalValues.tileCount, playerColors, playerNames);
+
+        Play();
     }
 
 }

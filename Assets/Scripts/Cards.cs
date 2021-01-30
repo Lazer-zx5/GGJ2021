@@ -1,45 +1,85 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public enum Subjects
-{
-    Math,
-    Physics
-};
-
 public class Cards : MonoBehaviour
 {
-    private Stack<int> data = new Stack<int>(new [] { 2, 2, 2, 2, 2, 4, 4, 4, 4, 6, 6, 6, 8, 8, 10});
+    private List<int> data = new List<int>(new [] { 2, 2, 2, 2, 2, 4, 4, 4, 4, 6, 6, 6, 8, 8, 10});
 
-    private List<Dictionary<Subjects, Stack<int>>> science;
-    private Stack<Stack<int>> art;
-    private Stack<Stack<int>> entertainment;
-    private Stack<Stack<int>> humanity;
-    private Stack<Stack<int>> pets;
+    private Dictionary<GlobalValues.ScienceSubjects_t, Stack<int>> science;
+    private Dictionary<GlobalValues.ArtSubjects_t, Stack<int>> art;
+    private Dictionary<GlobalValues.EntertainmentSubjects_t, Stack<int>> entertainment;
+    private Dictionary<GlobalValues.HumanitiesSubjects_t, Stack<int>> humanity;
+    private Dictionary<GlobalValues.SportsSubjects_t, Stack<int>> sports;
 
-    public void InitCards()
+    private void generateStacks<StackType>(ref Dictionary<StackType, Stack<int>> dest)
     {
-        for (int i = 0; i < GlobalValues.subjectCount; i++)
+        foreach (StackType i in Enum.GetValues(typeof(StackType)))
         {
-            science.Push(data.Sufle());
-            art.Push(data);
-            entertainment.Push(data);
-            humanity.Push(data);
-            pets.Push(data);
+            data.Shuffle<int>();
+            dest.Add(i, new Stack<int>(data.ToArray()));
         }
     }
 
-    int GetCard(GlobalValues.DiceFaces_t face)
+    public void InitCards()
     {
-        switch(face)
+        generateStacks<GlobalValues.ScienceSubjects_t>(ref science);
+        generateStacks<GlobalValues.ArtSubjects_t>(ref art);
+        generateStacks<GlobalValues.EntertainmentSubjects_t>(ref entertainment);
+        generateStacks<GlobalValues.HumanitiesSubjects_t>(ref humanity);
+        generateStacks<GlobalValues.SportsSubjects_t>(ref sports);
+    }
+
+    public Cards()
+    {
+        science = new Dictionary<GlobalValues.ScienceSubjects_t, Stack<int>>();
+        art = new Dictionary<GlobalValues.ArtSubjects_t, Stack<int>>();
+        entertainment = new Dictionary<GlobalValues.EntertainmentSubjects_t, Stack<int>>();
+        humanity = new Dictionary<GlobalValues.HumanitiesSubjects_t, Stack<int>>();
+        sports = new Dictionary<GlobalValues.SportsSubjects_t, Stack<int>>();
+    }
+
+    public GlobalValues.Card_t GetCard(GlobalValues.DiceFaces_t face)
+    {
+        GlobalValues.Card_t obj = new GlobalValues.Card_t();
+        switch (face)
         {
             case GlobalValues.DiceFaces_t.ART:
-                art.Peek
+                GlobalValues.ArtSubjects_t artTmp = (GlobalValues.ArtSubjects_t)Enum.ToObject(typeof(GlobalValues.ArtSubjects_t), UnityEngine.Random.Range(0, GlobalValues.subjectCount - 1));
+                obj.Cost = art[artTmp].Pop();
+                obj.Type = (int)GlobalValues.DiceFaces_t.ART;
+                obj.Subject = (int)artTmp;
+                return obj;
             case GlobalValues.DiceFaces_t.SCIENCE:
+                GlobalValues.ScienceSubjects_t scienceTmp = (GlobalValues.ScienceSubjects_t)Enum.ToObject(typeof(GlobalValues.ScienceSubjects_t), UnityEngine.Random.Range(0, GlobalValues.subjectCount - 1));
+                obj.Cost = science[scienceTmp].Pop();
+                obj.Type = (int)GlobalValues.DiceFaces_t.SCIENCE;
+                obj.Subject = (int)scienceTmp;
+                return obj;
             case GlobalValues.DiceFaces_t.HUMANITIES:
-            case GlobalValues.DiceFaces_t.PETS:
+                GlobalValues.HumanitiesSubjects_t humanTmp = (GlobalValues.HumanitiesSubjects_t)Enum.ToObject(typeof(GlobalValues.HumanitiesSubjects_t), UnityEngine.Random.Range(0, GlobalValues.subjectCount - 1));
+                obj.Cost = humanity[humanTmp].Pop();
+                obj.Type = (int)GlobalValues.DiceFaces_t.HUMANITIES;
+                obj.Subject = (int)humanTmp;
+                return obj;
             case GlobalValues.DiceFaces_t.ENTERTAINMENT:
+                GlobalValues.EntertainmentSubjects_t entertainmentTmp = (GlobalValues.EntertainmentSubjects_t)Enum.ToObject(typeof(GlobalValues.EntertainmentSubjects_t), UnityEngine.Random.Range(0, GlobalValues.subjectCount - 1));
+                obj.Cost = entertainment[entertainmentTmp].Pop();
+                obj.Type = (int)GlobalValues.DiceFaces_t.ENTERTAINMENT;
+                obj.Subject = (int)entertainmentTmp;
+                return obj;
+            case GlobalValues.DiceFaces_t.SPORTS:
+                GlobalValues.SportsSubjects_t sportTmp = (GlobalValues.SportsSubjects_t)Enum.ToObject(typeof(GlobalValues.SportsSubjects_t), UnityEngine.Random.Range(0, GlobalValues.subjectCount - 1));
+                obj.Cost = sports[sportTmp].Pop();
+                obj.Type = (int)GlobalValues.DiceFaces_t.SPORTS;
+                obj.Subject = (int)sportTmp;
+                return obj;
+            default:
+                obj.Cost = 0;
+                obj.Subject = -1;
+                obj.Type = -1;
+                return obj;
         }
     }
 }
