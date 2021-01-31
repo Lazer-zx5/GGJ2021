@@ -124,6 +124,7 @@ public class GameManager : MonoBehaviour
         {
             GlobalValues.Card_t currentCard = cards.GetCard(currentDiceFace);
             GameObject cardObj = GameObject.Instantiate(cardPrefab, GameObject.Find("Main Game Canvas").transform);
+            cardObj.transform.localPosition = new Vector3(733, 0, 0);
             cardObj.transform.GetChild(0).GetComponent<Text>().text = currentCard.Subject.ToUpper();
             switch (currentCard.Type)
             {

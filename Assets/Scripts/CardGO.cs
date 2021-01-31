@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class CardGO : MonoBehaviour
 {
-    public float speed = .5f;
+    public float speed = 3000f;
 
     private Vector3 start;
     private Vector3 des;
@@ -12,18 +12,17 @@ public class CardGO : MonoBehaviour
 
     void Start()
     {
-        start = new Vector3(transform.position.x, transform.position.y, transform.position.z);
-        des = new Vector3(transform.position.x-5f, transform.position.y, transform.position.z);
+        start = new Vector3(733, 0, 0);
+        des = new Vector3(-733, 200, 0);
 
     }
 
     void Update()
     {
-
-        /*if (fraction < 1)
+        if (fraction < 1)
         {
             fraction += Time.deltaTime * speed;
-            transform.position = Vector3.Lerp(start, des, fraction);
-        }*/
+            transform.localPosition = Vector3.Lerp(start, des, fraction);
+        }
     }
 }
