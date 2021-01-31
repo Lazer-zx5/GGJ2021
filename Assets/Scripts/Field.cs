@@ -44,7 +44,7 @@ public class Field
 
     public bool IsTileOwner(Player player, int tileNumber)
     {
-        if (mainField[tileNumber].Owner.Color == player.Color)
+        if (mainField[tileNumber].IsOpened && mainField[tileNumber].Owner.Color == player.Color)
             return true;
 
         return false;

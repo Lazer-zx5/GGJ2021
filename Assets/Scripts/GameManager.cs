@@ -26,7 +26,7 @@ public class GameManager : MonoBehaviour
     private Dictionary<string, Sprite> entIcons;
 
 
-    public void InitGame(int playerCount, int fieldCount, string [] playerColors, string [] playerNames)
+    public void InitGame(int playerCount, int fieldCount, Color [] playerColors, string [] playerNames)
     {
         this.currentPlayer = 0;
         this.playerCount = playerCount;
@@ -98,7 +98,7 @@ public class GameManager : MonoBehaviour
 
     private void Start()
     {
-        string[] playerColors = { "Red", "Blue" };
+        Color[] playerColors = { new Color(1, 0, 0), new Color(0, 1, 0) };
         string[] playerNames = { "1Red", "2Blue" };
         InitGame(playerColors.Length, GlobalValues.tileCount, playerColors, playerNames);
 
@@ -118,7 +118,7 @@ public class GameManager : MonoBehaviour
         Debug.Log(currentDiceFace.ToString());
         if (currentDiceFace == GlobalValues.DiceFaces_t.KARMA)
         {
-            //mainField.Karma(players[currentPlayer]);  // null ref error 
+            mainField.Karma(players[currentPlayer]);  // null ref error 
         }
         else
         {
