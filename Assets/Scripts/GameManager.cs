@@ -10,11 +10,16 @@ public class GameManager : MonoBehaviour
     private int currentPlayer;
     private int playerCount;
 
+    [SerializeField]
+    private GameObject cardPrefab;
+    [SerializeField]
+    private List<GameObject> tileObjects;
+ 
     public void InitGame(int playerCount, int fieldCount, string [] playerColors, string [] playerNames)
     {
         this.currentPlayer = 0;
         this.playerCount = playerCount;
-        mainField = new Field(fieldCount, playerCount);
+        mainField = new Field(fieldCount, playerCount, tileObjects);
         players = new List<Player>();
         cards = new Cards();
    
@@ -63,29 +68,33 @@ public class GameManager : MonoBehaviour
         if (!mainField.EndGame())
         {
             currentPlayer = SelectPlayer();
-
-            GlobalValues.DiceFaces_t currentDiceFace = Dice.Roll();
-            if (currentDiceFace == GlobalValues.DiceFaces_t.KARMA)
-            {
-                mainField.Karma(players[currentPlayer]);
-            }
-            else
-            {
-                GlobalValues.Card_t currentCard = cards.GetCard(currentDiceFace);
-                players[currentPlayer].CurrentCard = currentCard;
-
-                if (GlobalValues.Status_t.OKAY != Play(players[currentPlayer], mainField.CurrentTileNumber))
-                {
-                    // notify user that something wrong
-                }
-            }
-
-            if (currentPlayer == playerCount - 1)
-                mainField.EndOfYear();
         }
         else
         {
             // End of the game
         }
+    }
+
+    public void RollDice()
+    {
+        GlobalValues.DiceFaces_t currentDiceFace = Dice.Roll();
+        Debug.Log(currentDiceFace.ToString());
+        if (currentDiceFace == GlobalValues.DiceFaces_t.KARMA)
+        {
+            //mainField.Karma(players[currentPlayer]);  // null ref error 
+        }
+        else
+        {
+            GlobalValues.Card_t currentCard = cards.GetCard(currentDiceFace, cardPrefab);
+            players[currentPlayer].CurrentCard = currentCard;
+
+            if (GlobalValues.Status_t.OKAY != Play(players[currentPlayer], mainField.CurrentTileNumber))
+            {
+                // notify user that something wrong
+            }
+        }
+
+        if (currentPlayer == playerCount - 1)
+            mainField.EndOfYear();
     }
 }

@@ -1,0 +1,6062 @@
+fileFormatVersion: 2
+guid: 235af35c490f8f44085e8bbf5727b535
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -381719600062221588
+    second: card decks_0
+  - first:
+      213: 5220846440610272463
+    second: card decks_1
+  - first:
+      213: 2817672980307595404
+    second: card decks_2
+  - first:
+      213: 3711404585185254591
+    second: card decks_3
+  - first:
+      213: -5312229245284210368
+    second: card decks_4
+  - first:
+      213: 5801672631925511615
+    second: card decks_5
+  - first:
+      213: 2930302595142914317
+    second: card decks_6
+  - first:
+      213: 8796232971242477694
+    second: card decks_7
+  - first:
+      213: -3360145941671047010
+    second: card decks_8
+  - first:
+      213: -167406727942744144
+    second: card decks_9
+  - first:
+      213: -7627199485659905982
+    second: card decks_0
+  - first:
+      213: -3659504828540366606
+    second: card decks_1
+  - first:
+      213: -1029385412914417042
+    second: card decks_2
+  - first:
+      213: -6933563531281042363
+    second: card decks_3
+  - first:
+      213: -447750402502182534
+    second: card decks_4
+  - first:
+      213: -63104545006822365
+    second: card decks_5
+  - first:
+      213: -1445548098492847947
+    second: card decks_6
+  - first:
+      213: 1668883391381069883
+    second: card decks_7
+  - first:
+      213: -365114905477749694
+    second: card decks_8
+  - first:
+      213: 9206072717234626295
+    second: card decks_9
+  - first:
+      213: -293933788455839599
+    second: card decks_10
+  - first:
+      213: -6355578952689884616
+    second: card decks_11
+  - first:
+      213: -1259275981016031586
+    second: card decks_12
+  - first:
+      213: -572338349398315408
+    second: card decks_13
+  - first:
+      213: -4880836612050700651
+    second: card decks_14
+  - first:
+      213: 1976200920606970059
+    second: card decks_15
+  - first:
+      213: -4338243109606142118
+    second: card decks_16
+  - first:
+      213: 4128301786106461337
+    second: card decks_17
+  - first:
+      213: 8912443483805751334
+    second: card decks_18
+  - first:
+      213: 6718998627505905590
+    second: card decks_19
+  - first:
+      213: -1884234535444187091
+    second: card decks_20
+  - first:
+      213: 4460856572077024542
+    second: card decks_21
+  - first:
+      213: -5008723422394145026
+    second: card decks_22
+  - first:
+      213: 5996233189126095643
+    second: card decks_23
+  - first:
+      213: 7988597476070385171
+    second: card decks_24
+  - first:
+      213: 7856149351464317409
+    second: card decks_25
+  - first:
+      213: -1876555819417540320
+    second: card decks_26
+  - first:
+      213: -6081916359944871638
+    second: card decks_27
+  - first:
+      213: 3591043855102236250
+    second: card decks_28
+  - first:
+      213: 8849254072408335397
+    second: card decks_29
+  - first:
+      213: -4686928018510244985
+    second: card decks_30
+  - first:
+      213: -5947066412164422455
+    second: card decks_31
+  - first:
+      213: 4778384116221370427
+    second: card decks_32
+  - first:
+      213: -1836230396279614038
+    second: card decks_33
+  - first:
+      213: -7386762062170232691
+    second: card decks_34
+  - first:
+      213: 7372143455405262703
+    second: card decks_35
+  - first:
+      213: 9125327440389804354
+    second: card decks_36
+  - first:
+      213: 3125800658692389627
+    second: card decks_37
+  - first:
+      213: 5255429740775513408
+    second: card decks_38
+  - first:
+      213: 2258553971144244415
+    second: card decks_39
+  - first:
+      213: -5508385031900089068
+    second: card decks_40
+  - first:
+      213: 6389527931538006141
+    second: card decks_41
+  - first:
+      213: -5503439418102845838
+    second: card decks_42
+  - first:
+      213: -2036051778042443582
+    second: card decks_43
+  - first:
+      213: -6961041115785230360
+    second: card decks_44
+  - first:
+      213: 4489369317306239872
+    second: card decks_45
+  - first:
+      213: -5335665715779637348
+    second: card decks_46
+  - first:
+      213: 2641715561361818762
+    second: card decks_47
+  - first:
+      213: -3837332820239248124
+    second: card decks_48
+  - first:
+      213: -5580190171519394210
+    second: card decks_49
+  - first:
+      213: -4091136300542795348
+    second: card decks_50
+  - first:
+      213: -6338695637980597196
+    second: card decks_51
+  - first:
+      213: -410051387499010036
+    second: card decks_52
+  - first:
+      213: 8422344936332464850
+    second: card decks_53
+  - first:
+      213: -1164459081202419602
+    second: card decks_54
+  - first:
+      213: 5536635143892373317
+    second: card decks_55
+  - first:
+      213: 5206791927264926404
+    second: card decks_56
+  - first:
+      213: -659484915496450997
+    second: card decks_57
+  - first:
+      213: 9084581216117423790
+    second: card decks_58
+  - first:
+      213: -3503572903361689347
+    second: card decks_59
+  - first:
+      213: 4499372382460911090
+    second: card decks_60
+  - first:
+      213: -3364315858185647638
+    second: card decks_61
+  - first:
+      213: -4127341771360324857
+    second: card decks_62
+  - first:
+      213: -8132971567454626470
+    second: card decks_63
+  - first:
+      213: -1706752968715910467
+    second: card decks_64
+  - first:
+      213: -2371663653843320586
+    second: card decks_65
+  - first:
+      213: 7915483229081329463
+    second: card decks_66
+  - first:
+      213: -7359154825391262836
+    second: card decks_67
+  - first:
+      213: 2256509607813046942
+    second: card decks_68
+  - first:
+      213: 1032396489412449932
+    second: card decks_69
+  - first:
+      213: 7959635574142713327
+    second: card decks_70
+  - first:
+      213: -3115522391868694422
+    second: card decks_71
+  - first:
+      213: 4866045388628874299
+    second: card decks_72
+  - first:
+      213: 4218282724110696948
+    second: card decks_73
+  - first:
+      213: 1566160261181194141
+    second: card decks_74
+  - first:
+      213: 6651123389193800244
+    second: card decks_75
+  - first:
+      213: -5660234024101005406
+    second: card decks_76
+  - first:
+      213: -1968066812309961179
+    second: card decks_77
+  - first:
+      213: 951697411192767794
+    second: card decks_78
+  - first:
+      213: -8258339435194557906
+    second: card decks_79
+  - first:
+      213: 7704604209720763651
+    second: card decks_80
+  - first:
+      213: 5162986164694562126
+    second: card decks_81
+  - first:
+      213: 8681457546411398688
+    second: card decks_82
+  - first:
+      213: -6183664960380574078
+    second: card decks_83
+  - first:
+      213: 7181438689002964327
+    second: card decks_84
+  - first:
+      213: 8224026102137698523
+    second: card decks_85
+  - first:
+      213: -2834962718069806160
+    second: card decks_86
+  - first:
+      213: 4425218072186230242
+    second: card decks_87
+  - first:
+      213: -344255905557862957
+    second: card decks_88
+  - first:
+      213: -5924187098623756512
+    second: card decks_89
+  - first:
+      213: 6984646896818430656
+    second: card decks_90
+  - first:
+      213: 8151522485394635953
+    second: card decks_91
+  - first:
+      213: -7874778439769276554
+    second: card decks_92
+  - first:
+      213: -7151492096469857471
+    second: card decks_93
+  - first:
+      213: 4903933839885899095
+    second: card decks_94
+  - first:
+      213: -2920026599303424474
+    second: card decks_95
+  - first:
+      213: 9010930230771311543
+    second: card decks_96
+  - first:
+      213: 3360456895404975394
+    second: card decks_97
+  - first:
+      213: -7076017807658071627
+    second: card decks_98
+  - first:
+      213: 4157089747243741757
+    second: card decks_99
+  - first:
+      213: -3882593394969790332
+    second: card decks_100
+  - first:
+      213: 6320514817160155566
+    second: card decks_101
+  - first:
+      213: 7560569793823889053
+    second: card decks_102
+  - first:
+      213: 780021146885591738
+    second: card decks_103
+  - first:
+      213: 7042758679477778608
+    second: card decks_104
+  - first:
+      213: -7297530851463766023
+    second: card decks_105
+  - first:
+      213: -8309991603991439500
+    second: card decks_106
+  - first:
+      213: -2543706084385481731
+    second: card decks_107
+  - first:
+      213: 6020529806705495281
+    second: card decks_108
+  - first:
+      213: -8700368355989025310
+    second: card decks_109
+  - first:
+      213: 7821882033256603787
+    second: card decks_110
+  - first:
+      213: 6157284021275401385
+    second: card decks_111
+  - first:
+      213: 7688026398054712973
+    second: card decks_112
+  - first:
+      213: 5664159266724153108
+    second: card decks_113
+  - first:
+      213: -1348630250581787756
+    second: card decks_114
+  - first:
+      213: -1232841726278463992
+    second: card decks_115
+  - first:
+      213: -6134085852205710469
+    second: card decks_116
+  - first:
+      213: -6242507342919615699
+    second: card decks_117
+  - first:
+      213: 7321047552793883039
+    second: card decks_118
+  - first:
+      213: 4362181537378506801
+    second: card decks_119
+  - first:
+      213: -4423202090448002275
+    second: card decks_120
+  - first:
+      213: -1238214967788940731
+    second: card decks_121
+  - first:
+      213: 9204482157144894293
+    second: card decks_122
+  - first:
+      213: -9206087848226720804
+    second: card decks_123
+  - first:
+      213: -5463641956800374684
+    second: card decks_124
+  - first:
+      213: 6753813554434311738
+    second: card decks_125
+  - first:
+      213: 4375213348469800055
+    second: card decks_126
+  - first:
+      213: 8832853664301835209
+    second: card decks_127
+  - first:
+      213: 7403994264564841992
+    second: card decks_128
+  - first:
+      213: -3769153199470504502
+    second: card decks_129
+  - first:
+      213: 2711062141591026595
+    second: card decks_130
+  - first:
+      213: 5971219113945531322
+    second: card decks_131
+  - first:
+      213: 8343425592737489077
+    second: card decks_132
+  - first:
+      213: 6947481731577113689
+    second: card decks_133
+  - first:
+      213: -140773387148667574
+    second: card decks_134
+  - first:
+      213: -7363127668967746184
+    second: card decks_135
+  - first:
+      213: -7511745531163241703
+    second: card decks_136
+  - first:
+      213: 3646174239587514082
+    second: card decks_137
+  - first:
+      213: -6185813413552094369
+    second: card decks_138
+  - first:
+      213: -3703165025445580981
+    second: card decks_139
+  - first:
+      213: 587486156919555842
+    second: card decks_140
+  - first:
+      213: -7312714087019233586
+    second: card decks_141
+  - first:
+      213: -5973359835549816638
+    second: card decks_142
+  - first:
+      213: 7994519780011158323
+    second: card decks_143
+  - first:
+      213: 5146611072826184493
+    second: card decks_144
+  - first:
+      213: -4217307243932619519
+    second: card decks_145
+  - first:
+      213: -5456961205311579535
+    second: card decks_146
+  - first:
+      213: -2275215235871173254
+    second: card decks_147
+  - first:
+      213: 6020674072678154165
+    second: card decks_148
+  - first:
+      213: -6123286233242631390
+    second: card decks_149
+  - first:
+      213: 2024498372485085261
+    second: card decks_150
+  - first:
+      213: -6282082743957381295
+    second: card decks_151
+  - first:
+      213: -2109060772850435235
+    second: card decks_152
+  - first:
+      213: 4786388409505488552
+    second: card decks_153
+  - first:
+      213: 8561493512284599220
+    second: card decks_154
+  - first:
+      213: -6926355184682019482
+    second: card decks_155
+  - first:
+      213: -5341515537418811817
+    second: card decks_156
+  - first:
+      213: 3821217492202692543
+    second: card decks_157
+  - first:
+      213: 6658681592896940927
+    second: card decks_158
+  - first:
+      213: -2881395440028073733
+    second: card decks_159
+  - first:
+      213: 3572091422838177659
+    second: card decks_160
+  - first:
+      213: 6285993985864899974
+    second: card decks_161
+  - first:
+      213: 6024496765867439039
+    second: card decks_162
+  - first:
+      213: -4816335141286435980
+    second: card decks_163
+  - first:
+      213: -1737595644020744065
+    second: card decks_164
+  - first:
+      213: -344919174618641022
+    second: card decks_165
+  - first:
+      213: 4345171244900778166
+    second: card decks_166
+  - first:
+      213: -7052891207809189828
+    second: card decks_167
+  - first:
+      213: -5450919868394078066
+    second: card decks_168
+  - first:
+      213: -908533453774507655
+    second: card decks_169
+  - first:
+      213: -5552730119000289352
+    second: card decks_170
+  - first:
+      213: -7799463234648145400
+    second: card decks_171
+  - first:
+      213: 5090584708748746371
+    second: card decks_172
+  - first:
+      213: -4956984972000274965
+    second: card decks_173
+  - first:
+      213: -2590070870289628978
+    second: card decks_174
+  - first:
+      213: 3877121031911723577
+    second: card decks_175
+  - first:
+      213: 2630126635377649494
+    second: card decks_176
+  - first:
+      213: -8466503491406064768
+    second: card decks_177
+  - first:
+      213: -3517856219819127962
+    second: card decks_178
+  - first:
+      213: 3566975740945202016
+    second: card decks_179
+  - first:
+      213: 5252611613789840037
+    second: card decks_180
+  - first:
+      213: 2227374130713731224
+    second: card decks_181
+  - first:
+      213: 4929658261285011564
+    second: card decks_182
+  - first:
+      213: 5721530455388327341
+    second: card decks_183
+  - first:
+      213: 681331571093618280
+    second: card decks_184
+  - first:
+      213: 2922849183230189899
+    second: card decks_185
+  - first:
+      213: -35578223149860114
+    second: card decks_186
+  - first:
+      213: 8063916680282080032
+    second: card decks_187
+  - first:
+      213: 2621523751796307064
+    second: card decks_188
+  - first:
+      213: 4042325820793967512
+    second: card decks_189
+  - first:
+      213: -6334762343859029845
+    second: card decks_190
+  - first:
+      213: 398949250684945587
+    second: card decks_191
+  - first:
+      213: 6452834963391990243
+    second: card decks_192
+  - first:
+      213: -4146655363860484839
+    second: card decks_193
+  - first:
+      213: 1618138475392822189
+    second: card decks_194
+  - first:
+      213: 5430959729279364537
+    second: card decks_195
+  - first:
+      213: -6384078144999366077
+    second: card decks_196
+  - first:
+      213: 2666857503030688599
+    second: card decks_197
+  - first:
+      213: 42830034107048345
+    second: card decks_198
+  - first:
+      213: 5628318880269620910
+    second: card decks_199
+  - first:
+      213: 5781082806455277182
+    second: card decks_200
+  - first:
+      213: 8984363935286279309
+    second: card decks_201
+  - first:
+      213: 8484577657654923138
+    second: card decks_202
+  - first:
+      213: -3178784216550640212
+    second: card decks_203
+  - first:
+      213: -3923401785886937060
+    second: card decks_204
+  - first:
+      213: 4512992200852322945
+    second: card decks_205
+  - first:
+      213: -3517564134208754852
+    second: card decks_206
+  - first:
+      213: -3019855140099613661
+    second: card decks_207
+  - first:
+      213: -2882824395032114354
+    second: card decks_208
+  - first:
+      213: -5285119277070698406
+    second: card decks_209
+  - first:
+      213: -5280661069445208354
+    second: card decks_210
+  - first:
+      213: 5802619384465968875
+    second: card decks_211
+  - first:
+      213: -7286385030408122252
+    second: card decks_212
+  - first:
+      213: 226492471435627749
+    second: card decks_213
+  - first:
+      213: -5505675565293399145
+    second: card decks_214
+  - first:
+      213: -1591177042894760182
+    second: card decks_215
+  - first:
+      213: -4329058646281613855
+    second: card decks_216
+  - first:
+      213: 1746875829431913646
+    second: card decks_217
+  - first:
+      213: 7857409020376278184
+    second: card decks_218
+  - first:
+      213: -6560992644958883041
+    second: card decks_219
+  - first:
+      213: 4269027662190240237
+    second: card decks_220
+  - first:
+      213: -2287334686145525915
+    second: card decks_221
+  - first:
+      213: 7284761966838181190
+    second: card decks_222
+  - first:
+      213: 6138300892657191345
+    second: card decks_223
+  - first:
+      213: 2525076215882198637
+    second: card decks_224
+  - first:
+      213: 2553418087230107381
+    second: card decks_225
+  - first:
+      213: 6856952039425837992
+    second: card decks_226
+  - first:
+      213: -1062913228413870758
+    second: card decks_227
+  - first:
+      213: -5060178404156134374
+    second: card decks_228
+  - first:
+      213: -8301480950481685092
+    second: card decks_229
+  - first:
+      213: -3284751452279401652
+    second: card decks_230
+  - first:
+      213: 8006871573544125876
+    second: card decks_231
+  - first:
+      213: -4217921692530126293
+    second: card decks_232
+  - first:
+      213: 1721345551313976010
+    second: card decks_233
+  - first:
+      213: -7889014663315635885
+    second: card decks_234
+  - first:
+      213: -3723676683336793460
+    second: card decks_235
+  - first:
+      213: 905063137067523627
+    second: card decks_236
+  - first:
+      213: 6253596871889929328
+    second: card decks_237
+  - first:
+      213: -6000970182045470106
+    second: card decks_238
+  - first:
+      213: 4786740657989538843
+    second: card decks_239
+  - first:
+      213: 2549513183056038124
+    second: card decks_240
+  - first:
+      213: 418246506467624325
+    second: card decks_241
+  - first:
+      213: 1483780328353086139
+    second: card decks_242
+  - first:
+      213: -5523146471222933005
+    second: card decks_243
+  - first:
+      213: 1413152854195909776
+    second: card decks_244
+  - first:
+      213: -3148174693051343956
+    second: card decks_245
+  - first:
+      213: 9172569681892118189
+    second: card decks_246
+  - first:
+      213: 5145482091862072740
+    second: card decks_247
+  - first:
+      213: 1731001287612501691
+    second: card decks_248
+  - first:
+      213: 8910995677641349689
+    second: card decks_249
+  - first:
+      213: -429248978121774710
+    second: card decks_250
+  - first:
+      213: 6939738794032182468
+    second: card decks_251
+  - first:
+      213: -4597172572071555493
+    second: card decks_252
+  - first:
+      213: 7622616328784605927
+    second: card decks_253
+  - first:
+      213: -6592698758833807258
+    second: card decks_254
+  - first:
+      213: -817672049793812478
+    second: card decks_255
+  - first:
+      213: 9107921894276627884
+    second: card decks_256
+  - first:
+      213: -1502826256330974354
+    second: card decks_257
+  - first:
+      213: -4982265134491740430
+    second: card decks_258
+  - first:
+      213: 8372514716411585159
+    second: card decks_259
+  - first:
+      213: -9183528459272171467
+    second: card decks_260
+  - first:
+      213: -5496665281325524363
+    second: card decks_261
+  - first:
+      213: -8567862898905276526
+    second: card decks_262
+  - first:
+      213: 2644977056421400046
+    second: card decks_263
+  - first:
+      213: -323697822791675496
+    second: card decks_264
+  - first:
+      213: -1574425948103961378
+    second: card decks_265
+  - first:
+      213: -2076940312175875731
+    second: card decks_266
+  - first:
+      213: -1903581393456626354
+    second: card decks_267
+  - first:
+      213: 3962518392643931348
+    second: card decks_268
+  - first:
+      213: 7012148229442491446
+    second: card decks_269
+  - first:
+      213: 4992921645133891556
+    second: card decks_270
+  - first:
+      213: -4494158148040438613
+    second: card decks_271
+  - first:
+      213: -5959441041011500303
+    second: card decks_272
+  - first:
+      213: -7327164999783910777
+    second: card decks_273
+  - first:
+      213: -6930074510413162085
+    second: card decks_274
+  - first:
+      213: -4296158449524971281
+    second: card decks_275
+  - first:
+      213: 5030560154105110325
+    second: card decks_276
+  - first:
+      213: -6912044078038515979
+    second: card decks_277
+  - first:
+      213: -8088290386502375292
+    second: card decks_278
+  - first:
+      213: 1442894805950462469
+    second: card decks_279
+  - first:
+      213: 4908196301067903359
+    second: card decks_280
+  - first:
+      213: -131019540362164227
+    second: card decks_281
+  - first:
+      213: -6170517201954327305
+    second: card decks_282
+  - first:
+      213: -4821735429745815509
+    second: card decks_283
+  - first:
+      213: -1461304083347676171
+    second: card decks_284
+  - first:
+      213: -9109788428075396299
+    second: card decks_285
+  - first:
+      213: -8281389175523285285
+    second: card decks_286
+  - first:
+      213: -5676751310650180886
+    second: card decks_287
+  - first:
+      213: 2713215560085190648
+    second: card decks_288
+  - first:
+      213: -2982936972217216375
+    second: card decks_289
+  - first:
+      213: -2455991815051760709
+    second: card decks_290
+  - first:
+      213: -5729435013163903967
+    second: card decks_291
+  - first:
+      213: 4902660726225234233
+    second: card decks_292
+  - first:
+      213: -8296315606317350572
+    second: card decks_293
+  - first:
+      213: -8811416191308957964
+    second: card decks_294
+  - first:
+      213: -4417742535185582948
+    second: card decks_295
+  - first:
+      213: 4091846465101917341
+    second: card decks_296
+  - first:
+      213: 3260137553087497421
+    second: card decks_297
+  - first:
+      213: 29286027208422435
+    second: card decks_298
+  - first:
+      213: -4760719615560863641
+    second: card decks_299
+  - first:
+      213: 6179070036708809183
+    second: card decks_300
+  - first:
+      213: -6678692343776044482
+    second: card decks_301
+  - first:
+      213: 4841079346024205398
+    second: card decks_302
+  - first:
+      213: -6835376264661405358
+    second: card decks_303
+  - first:
+      213: 7732621810113670723
+    second: card decks_304
+  - first:
+      213: -3381371699610751450
+    second: card decks_305
+  - first:
+      213: 699047359978700804
+    second: card decks_306
+  - first:
+      213: 7321330319350905493
+    second: card decks_307
+  - first:
+      213: 2385447043730265467
+    second: card decks_308
+  - first:
+      213: 3905858804456220669
+    second: card decks_309
+  - first:
+      213: 2724080079852619526
+    second: card decks_310
+  - first:
+      213: -1378597657236440661
+    second: card decks_311
+  - first:
+      213: -115435933181696267
+    second: card decks_312
+  - first:
+      213: 3855805464440154582
+    second: card decks_313
+  - first:
+      213: -7842297710800032768
+    second: card decks_314
+  - first:
+      213: 4637022638117851578
+    second: card decks_315
+  - first:
+      213: -1781754932945061663
+    second: card decks_316
+  - first:
+      213: 8602466890450882783
+    second: card decks_317
+  - first:
+      213: 741612746988388070
+    second: card decks_318
+  - first:
+      213: -2186293358730205590
+    second: card decks_319
+  - first:
+      213: -9169821080950699266
+    second: card decks_320
+  - first:
+      213: 591939107262954947
+    second: card decks_321
+  - first:
+      213: -2725867431330423674
+    second: card decks_322
+  - first:
+      213: -3265979449607653418
+    second: card decks_323
+  - first:
+      213: -7841598390174405132
+    second: card decks_324
+  - first:
+      213: 1231221219891176871
+    second: card decks_325
+  - first:
+      213: -8224687521541447234
+    second: card decks_326
+  - first:
+      213: 4435681855266127415
+    second: card decks_327
+  - first:
+      213: 3310647578726409104
+    second: card decks_328
+  - first:
+      213: 782859250995752179
+    second: card decks_329
+  - first:
+      213: 5121018050354125136
+    second: card decks_330
+  - first:
+      213: -4827622163552679083
+    second: card decks_331
+  - first:
+      213: -4314587760805740652
+    second: card decks_332
+  - first:
+      213: -4439271661671874
+    second: card decks_333
+  - first:
+      213: -2651248186422260011
+    second: card decks_334
+  - first:
+      213: 431831218968723257
+    second: card decks_335
+  - first:
+      213: -5403757980205719589
+    second: card decks_336
+  - first:
+      213: -6657998048169733854
+    second: card decks_337
+  - first:
+      213: -1715728748735522732
+    second: card decks_338
+  - first:
+      213: -6842757064370885210
+    second: card decks_339
+  - first:
+      213: -7992759338358240074
+    second: card decks_340
+  - first:
+      213: 8300470847287298126
+    second: card decks_341
+  - first:
+      213: 7799964445716524321
+    second: card decks_342
+  - first:
+      213: -7471344607245166688
+    second: card decks_343
+  - first:
+      213: 3161598088602128361
+    second: card decks_344
+  - first:
+      213: -5378918269082876092
+    second: card decks_345
+  - first:
+      213: -8178673545339579358
+    second: card decks_346
+  - first:
+      213: 6367223897005968199
+    second: card decks_347
+  - first:
+      213: -7965059507352845140
+    second: card decks_348
+  - first:
+      213: 8344929793567374869
+    second: card decks_349
+  - first:
+      213: -8631107453268178345
+    second: card decks_350
+  - first:
+      213: 5026453150674219925
+    second: card decks_351
+  - first:
+      213: -2294442753288241789
+    second: card decks_352
+  - first:
+      213: 3645258011213361946
+    second: card decks_353
+  - first:
+      213: 4332861614073447011
+    second: card decks_354
+  - first:
+      213: -3137388170730869012
+    second: card decks_355
+  - first:
+      213: 2187774493857082987
+    second: card decks_356
+  - first:
+      213: 8068384872556285750
+    second: card decks_357
+  - first:
+      213: 6260558107152454128
+    second: card decks_358
+  - first:
+      213: 3870048139112144650
+    second: card decks_359
+  - first:
+      213: 6786120049872042238
+    second: card decks_360
+  - first:
+      213: -234157609959118962
+    second: card decks_361
+  - first:
+      213: 6916273999237413341
+    second: card decks_362
+  - first:
+      213: -7007215364890989702
+    second: card decks_363
+  - first:
+      213: -6544916185065265062
+    second: card decks_364
+  - first:
+      213: -73787211817755850
+    second: card decks_365
+  - first:
+      213: -7230448994225163626
+    second: card decks_366
+  - first:
+      213: -356909130281149778
+    second: card decks_367
+  - first:
+      213: -1807064756240264387
+    second: card decks_368
+  - first:
+      213: 8979937786188773559
+    second: card decks_369
+  - first:
+      213: -2318564495146444580
+    second: card decks_370
+  - first:
+      213: -8555594580978335940
+    second: card decks_371
+  - first:
+      213: 760514886965503561
+    second: card decks_372
+  - first:
+      213: -4756733429293172125
+    second: card decks_373
+  - first:
+      213: -8033378376649928322
+    second: card decks_374
+  - first:
+      213: 4543509810347962799
+    second: card decks_375
+  - first:
+      213: -6639918491618653009
+    second: card decks_376
+  - first:
+      213: -35249868021248632
+    second: card decks_377
+  - first:
+      213: -1528303825168749008
+    second: card decks_378
+  - first:
+      213: -1845581452830568993
+    second: card decks_379
+  - first:
+      213: 2993356913998123095
+    second: card decks_380
+  - first:
+      213: 2187755231624154619
+    second: card decks_381
+  - first:
+      213: -1129473454472661302
+    second: card decks_382
+  - first:
+      213: -8477151777724517293
+    second: card decks_383
+  - first:
+      213: 7930244525293538419
+    second: card decks_384
+  - first:
+      213: 2501723799923707962
+    second: card decks_385
+  - first:
+      213: 4570664963299369413
+    second: card decks_386
+  - first:
+      213: -2503816814932565274
+    second: card decks_387
+  - first:
+      213: -5289783208333777900
+    second: card decks_388
+  - first:
+      213: 5752595399855340327
+    second: card decks_389
+  - first:
+      213: -6293932081919833900
+    second: card decks_390
+  - first:
+      213: 7007285816754645872
+    second: card decks_391
+  - first:
+      213: -4415389340239331383
+    second: card decks_392
+  - first:
+      213: -5187455135082120793
+    second: card decks_393
+  - first:
+      213: 5582778059978242643
+    second: card decks_394
+  - first:
+      213: -7735474724155105060
+    second: card decks_395
+  - first:
+      213: -7539772970946265964
+    second: card decks_396
+  - first:
+      213: 4018960206920701692
+    second: card decks_397
+  - first:
+      213: -7512499574440356609
+    second: card decks_398
+  - first:
+      213: -190736083352255926
+    second: card decks_399
+  - first:
+      213: 9138402635354333286
+    second: card decks_400
+  - first:
+      213: 3817280992281113801
+    second: card decks_401
+  - first:
+      213: 1744715121319112777
+    second: card decks_402
+  - first:
+      213: -8843041018805890512
+    second: card decks_403
+  - first:
+      213: -9008473375246123200
+    second: card decks_404
+  - first:
+      213: -6595005815973433089
+    second: card decks_405
+  - first:
+      213: -5415113689269331586
+    second: card decks_406
+  - first:
+      213: -1082742727168123616
+    second: card decks_407
+  - first:
+      213: 7515179144248642041
+    second: card decks_408
+  - first:
+      213: -4678432853595221588
+    second: card decks_409
+  - first:
+      213: 3646346410982692460
+    second: card decks_410
+  - first:
+      213: -5642406162341462624
+    second: card decks_411
+  - first:
+      213: 5488982996885195142
+    second: card decks_412
+  - first:
+      213: -7426586211043187228
+    second: card decks_413
+  - first:
+      213: 8297440712660704447
+    second: card decks_414
+  - first:
+      213: 3413765601856966144
+    second: card decks_415
+  - first:
+      213: -7376988512323766176
+    second: card decks_416
+  - first:
+      213: -933496451747485990
+    second: card decks_417
+  - first:
+      213: 1830426275439833436
+    second: card decks_418
+  - first:
+      213: 4257412371752531532
+    second: card decks_419
+  - first:
+      213: 8875660476554984730
+    second: card decks_420
+  - first:
+      213: 3121574318262654500
+    second: card decks_421
+  - first:
+      213: 5861842832264124665
+    second: card decks_422
+  - first:
+      213: -551973383547719063
+    second: card decks_423
+  - first:
+      213: 5463488440862574366
+    second: card decks_424
+  - first:
+      213: -7807499299762374581
+    second: card decks_425
+  - first:
+      213: 270022203610355716
+    second: card decks_426
+  - first:
+      213: -8133319846777148310
+    second: card decks_427
+  - first:
+      213: -5201379658952319224
+    second: card decks_428
+  - first:
+      213: -8391475293962015515
+    second: card decks_429
+  - first:
+      213: -1689755375500638366
+    second: card decks_430
+  - first:
+      213: -5955391723941912536
+    second: card decks_431
+  - first:
+      213: -7596615589299891926
+    second: card decks_432
+  - first:
+      213: -1835557919485192221
+    second: card decks_433
+  - first:
+      213: -1036397570909675083
+    second: card decks_434
+  - first:
+      213: -9216412336544573061
+    second: card decks_435
+  - first:
+      213: -5975905205503161991
+    second: card decks_436
+  - first:
+      213: -7713584900684678135
+    second: card decks_437
+  - first:
+      213: 4577446310835809614
+    second: card decks_438
+  - first:
+      213: -1740076582145609836
+    second: card decks_439
+  - first:
+      213: -7572247126596625367
+    second: card decks_440
+  - first:
+      213: 3227282318682081036
+    second: card decks_441
+  - first:
+      213: -7188003369528886229
+    second: card decks_442
+  - first:
+      213: -3744071648401420245
+    second: card decks_443
+  - first:
+      213: -8501616124896209847
+    second: card decks_444
+  - first:
+      213: 3860728918257020714
+    second: card decks_445
+  - first:
+      213: 6470057867015857097
+    second: card decks_446
+  - first:
+      213: -1499021747003978841
+    second: card decks_447
+  - first:
+      213: -5578280293764825114
+    second: card decks_448
+  - first:
+      213: 3900153148328206336
+    second: card decks_449
+  - first:
+      213: 4593695258192012600
+    second: card decks_450
+  - first:
+      213: 709128612794740706
+    second: card decks_451
+  - first:
+      213: -5448022352219034513
+    second: card decks_452
+  - first:
+      213: 5812575373436635134
+    second: card decks_453
+  - first:
+      213: -1063301300319233352
+    second: card decks_454
+  - first:
+      213: 8552160642351455102
+    second: card decks_455
+  - first:
+      213: 6299873317161467946
+    second: card decks_456
+  - first:
+      213: -1384574572701395700
+    second: card decks_457
+  - first:
+      213: 8043047232071316322
+    second: card decks_458
+  - first:
+      213: 2571685984718320712
+    second: card decks_459
+  - first:
+      213: 272452861606235663
+    second: card decks_460
+  - first:
+      213: -7679693858255834855
+    second: card decks_461
+  - first:
+      213: 7575832045825993559
+    second: card decks_462
+  - first:
+      213: -7440035703107755575
+    second: card decks_463
+  - first:
+      213: -7319037174575423690
+    second: card decks_464
+  - first:
+      213: -1568218931345149432
+    second: card decks_465
+  - first:
+      213: 33251116658754691
+    second: card decks_466
+  - first:
+      213: -3081439442120715286
+    second: card decks_467
+  - first:
+      213: -1600016305035583976
+    second: card decks_468
+  - first:
+      213: -1897948774977394051
+    second: card decks_469
+  - first:
+      213: -5770752754884967434
+    second: card decks_470
+  - first:
+      213: -7954336590280779996
+    second: card decks_471
+  - first:
+      213: -1059872197297563567
+    second: card decks_472
+  - first:
+      213: -8301287019531301683
+    second: card decks_473
+  - first:
+      213: -8327131777446306446
+    second: card decks_474
+  - first:
+      213: 8514682554231093472
+    second: card decks_475
+  - first:
+      213: 1144087269453212513
+    second: card decks_476
+  - first:
+      213: -7055728248150554513
+    second: card decks_477
+  - first:
+      213: -7650680376914252113
+    second: card decks_478
+  - first:
+      213: -5781052415136510841
+    second: card decks_479
+  - first:
+      213: 4895666461099593497
+    second: card decks_480
+  - first:
+      213: 4035320040898603205
+    second: card decks_481
+  - first:
+      213: -608029836987432305
+    second: card decks_482
+  - first:
+      213: -7086921033806391769
+    second: card decks_483
+  - first:
+      213: -5818314044167181034
+    second: card decks_484
+  - first:
+      213: -9101852983318669527
+    second: card decks_485
+  - first:
+      213: 4745579899070328828
+    second: card decks_486
+  - first:
+      213: 5805389007295322249
+    second: card decks_487
+  - first:
+      213: -8257334594473156522
+    second: card decks_488
+  - first:
+      213: 4976235876825893643
+    second: card decks_489
+  - first:
+      213: 4528065105091550377
+    second: card decks_490
+  - first:
+      213: -4675556821457054771
+    second: card decks_491
+  - first:
+      213: -2013318370005515619
+    second: card decks_492
+  - first:
+      213: 3698979776809522342
+    second: card decks_493
+  - first:
+      213: -8664808524120936343
+    second: card decks_494
+  - first:
+      213: -4251586374959659070
+    second: card decks_495
+  - first:
+      213: -685326174789103457
+    second: card decks_496
+  - first:
+      213: -4560168427330628425
+    second: card decks_497
+  - first:
+      213: -178810679319029796
+    second: card decks_498
+  - first:
+      213: -4576359029092754968
+    second: card decks_499
+  - first:
+      213: -3408607177041043906
+    second: card decks_500
+  - first:
+      213: 8362176577660813542
+    second: card decks_501
+  - first:
+      213: 5160660038939437957
+    second: card decks_502
+  - first:
+      213: -8375268777815693005
+    second: card decks_503
+  - first:
+      213: 3046764271631055733
+    second: card decks_504
+  - first:
+      213: -597778709559852420
+    second: card decks_505
+  - first:
+      213: -5638039420268965068
+    second: card decks_506
+  - first:
+      213: 3540850073856796613
+    second: card decks_507
+  - first:
+      213: -247285346710606900
+    second: card decks_508
+  - first:
+      213: 6755756548011930004
+    second: card decks_509
+  - first:
+      213: -6915829445229906330
+    second: card decks_510
+  - first:
+      213: 8339810952342164827
+    second: card decks_511
+  - first:
+      213: -1430881029758401642
+    second: card decks_512
+  - first:
+      213: 8666659155899918854
+    second: card decks_513
+  - first:
+      213: -3948355669765432311
+    second: card decks_514
+  - first:
+      213: 6139493016955558771
+    second: card decks_515
+  - first:
+      213: -4752775199264933002
+    second: card decks_516
+  - first:
+      213: 8324050923241140272
+    second: card decks_517
+  - first:
+      213: 6416880009248167053
+    second: card decks_518
+  - first:
+      213: 1698006499695314093
+    second: card decks_519
+  - first:
+      213: 5265666086183515898
+    second: card decks_520
+  - first:
+      213: 3071739514014279896
+    second: card decks_521
+  - first:
+      213: 1941838727945528248
+    second: card decks_522
+  - first:
+      213: 1397191136499172498
+    second: card decks_523
+  - first:
+      213: 2026123899773754384
+    second: card decks_524
+  - first:
+      213: -4348170595941976807
+    second: card decks_525
+  - first:
+      213: -4271173053522198161
+    second: card decks_526
+  - first:
+      213: -6849758874126315806
+    second: card decks_527
+  - first:
+      213: -527653722376840017
+    second: card decks_528
+  - first:
+      213: 1378621592346632657
+    second: card decks_529
+  - first:
+      213: -5463689447345321737
+    second: card decks_530
+  - first:
+      213: -8902977337912764584
+    second: card decks_531
+  - first:
+      213: 1147032148827919071
+    second: card decks_532
+  - first:
+      213: 6038955700001900547
+    second: card decks_533
+  - first:
+      213: 7611504053584847174
+    second: card decks_534
+  - first:
+      213: 9092965335330787318
+    second: card decks_535
+  - first:
+      213: 7916934959205967372
+    second: card decks_536
+  - first:
+      213: -8955178900887460524
+    second: card decks_537
+  - first:
+      213: -4430607961252088460
+    second: card decks_538
+  - first:
+      213: 3223924326060315988
+    second: card decks_539
+  - first:
+      213: 8202448269395218800
+    second: card decks_540
+  - first:
+      213: 4541424037535248203
+    second: card decks_541
+  - first:
+      213: 1014283865664795860
+    second: card decks_542
+  - first:
+      213: -3870015223288140411
+    second: card decks_543
+  - first:
+      213: 6372488993427057064
+    second: card decks_544
+  - first:
+      213: -1791678375855140469
+    second: card decks_545
+  - first:
+      213: -588952418349585822
+    second: card decks_546
+  - first:
+      213: -1546338880289051748
+    second: card decks_547
+  - first:
+      213: -5944168791034384297
+    second: card decks_548
+  - first:
+      213: 4786528622576026637
+    second: card decks_549
+  - first:
+      213: 5883344030774680473
+    second: card decks_550
+  - first:
+      213: -2235914295820976863
+    second: card decks_551
+  - first:
+      213: -7435790070483264423
+    second: card decks_552
+  - first:
+      213: 6778815822992744300
+    second: card decks_553
+  - first:
+      213: -3485265646001701537
+    second: card decks_554
+  - first:
+      213: -7170870227091864616
+    second: card decks_555
+  - first:
+      213: 3852034291180791149
+    second: card decks_556
+  - first:
+      213: 6489764586243360433
+    second: card decks_557
+  - first:
+      213: 7872018495877512279
+    second: card decks_558
+  - first:
+      213: 552544633057826973
+    second: card decks_559
+  - first:
+      213: 1965960534912500499
+    second: card decks_560
+  - first:
+      213: 9132371684122149903
+    second: card decks_561
+  - first:
+      213: -2406400390042152290
+    second: card decks_562
+  - first:
+      213: 45681054932547706
+    second: card decks_563
+  - first:
+      213: -5393223656818825409
+    second: card decks_564
+  - first:
+      213: -7591160670518932877
+    second: card decks_565
+  - first:
+      213: 7796135827168827858
+    second: card decks_566
+  - first:
+      213: 6192496585843622822
+    second: card decks_567
+  - first:
+      213: 1193127948160538693
+    second: card decks_568
+  - first:
+      213: 7674604785683561210
+    second: card decks_569
+  - first:
+      213: -7950714513306650010
+    second: card decks_570
+  - first:
+      213: 7014449687640667479
+    second: card decks_571
+  - first:
+      213: 4025769466553192541
+    second: card decks_572
+  - first:
+      213: 1723189272301320756
+    second: card decks_573
+  - first:
+      213: -5804642350507064446
+    second: card decks_574
+  - first:
+      213: 4971117404637654079
+    second: card decks_575
+  - first:
+      213: -2016550163425752193
+    second: card decks_576
+  - first:
+      213: 697402154829757744
+    second: card decks_577
+  - first:
+      213: 5579804403477312391
+    second: card decks_578
+  - first:
+      213: 5868302589929254481
+    second: card decks_579
+  - first:
+      213: -1127497013722618330
+    second: card decks_580
+  - first:
+      213: -2084997686864741358
+    second: card decks_581
+  - first:
+      213: 1853477586279526407
+    second: card decks_582
+  - first:
+      213: 7496329346066332258
+    second: card decks_583
+  - first:
+      213: 898747171031576792
+    second: card decks_584
+  - first:
+      213: -4591286355385385091
+    second: card decks_585
+  - first:
+      213: 1688860477899684923
+    second: card decks_586
+  - first:
+      213: -5853598602961960746
+    second: card decks_587
+  - first:
+      213: -3307223675277723748
+    second: card decks_588
+  - first:
+      213: -6307468099790570347
+    second: card decks_589
+  - first:
+      213: -3382750261542688619
+    second: card decks_590
+  - first:
+      213: -7545267469263091923
+    second: card decks_591
+  - first:
+      213: -3234353240975397441
+    second: card decks_592
+  - first:
+      213: -6583103501203195678
+    second: card decks_593
+  - first:
+      213: 3502258583126240019
+    second: card decks_594
+  - first:
+      213: 6547160328170447503
+    second: card decks_595
+  - first:
+      213: -605397388762125259
+    second: card decks_596
+  - first:
+      213: -1372945204278761107
+    second: card decks_597
+  - first:
+      213: 7794018685297800109
+    second: card decks_598
+  - first:
+      213: 1043608223367894900
+    second: card decks_599
+  - first:
+      213: -5302915599420642124
+    second: card decks_600
+  - first:
+      213: -5540706193165951906
+    second: card decks_601
+  - first:
+      213: -8667806856454185066
+    second: card decks_602
+  - first:
+      213: 3113119549170968820
+    second: card decks_603
+  - first:
+      213: -4204766740898722569
+    second: card decks_604
+  - first:
+      213: 5193072978783413567
+    second: card decks_605
+  - first:
+      213: -1219221416797495591
+    second: card decks_606
+  - first:
+      213: -195569935929779185
+    second: card decks_607
+  - first:
+      213: 3484479302810996034
+    second: card decks_608
+  - first:
+      213: -7881039097344181156
+    second: card decks_609
+  - first:
+      213: -597381305803447789
+    second: card decks_610
+  - first:
+      213: -3549204536595827754
+    second: card decks_611
+  - first:
+      213: -4235554053545084085
+    second: card decks_612
+  - first:
+      213: 2240086954383386202
+    second: card decks_613
+  - first:
+      213: 7409284031531217926
+    second: card decks_614
+  - first:
+      213: 6120743013718089937
+    second: card decks_615
+  - first:
+      213: 1863070723883005058
+    second: card decks_616
+  - first:
+      213: 8801145325901361499
+    second: card decks_617
+  - first:
+      213: 5186530147366058781
+    second: card decks_618
+  - first:
+      213: -7197293008190085716
+    second: card decks_619
+  - first:
+      213: 2287753473842975728
+    second: card decks_620
+  - first:
+      213: 6326069226731320355
+    second: card decks_621
+  - first:
+      213: -7269778805742848035
+    second: card decks_622
+  - first:
+      213: -5829501498692940872
+    second: card decks_623
+  - first:
+      213: 2364866688525464111
+    second: card decks_624
+  - first:
+      213: 5908026584593668937
+    second: card decks_625
+  - first:
+      213: 839147694742525088
+    second: card decks_626
+  - first:
+      213: -3163774569461985474
+    second: card decks_627
+  - first:
+      213: -619021334192699070
+    second: card decks_628
+  - first:
+      213: 4324061531737490248
+    second: card decks_629
+  - first:
+      213: 2639963440460691528
+    second: card decks_630
+  - first:
+      213: 595860380939324256
+    second: card decks_631
+  - first:
+      213: 462308228004027203
+    second: card decks_632
+  - first:
+      213: 3599571802932097493
+    second: card decks_633
+  - first:
+      213: -8810035703947683193
+    second: card decks_634
+  - first:
+      213: 1817302411450767910
+    second: card decks_635
+  - first:
+      213: -7066343160989358354
+    second: card decks_636
+  - first:
+      213: 3740901335826397187
+    second: card decks_637
+  - first:
+      213: -3321170375059669123
+    second: card decks_638
+  - first:
+      213: 5127339034445954653
+    second: card decks_639
+  - first:
+      213: -8826359259733990435
+    second: card decks_640
+  - first:
+      213: -8302594962257781069
+    second: card decks_641
+  - first:
+      213: 6383897612406697392
+    second: card decks_642
+  - first:
+      213: -1759233526118890633
+    second: card decks_643
+  - first:
+      213: 2430168841621935506
+    second: card decks_644
+  - first:
+      213: -2234134982545233082
+    second: card decks_645
+  - first:
+      213: 3324917128948347013
+    second: card decks_646
+  - first:
+      213: -6955695734032614272
+    second: card decks_647
+  - first:
+      213: -3975005622826212145
+    second: card decks_648
+  - first:
+      213: -1472791560784147132
+    second: card decks_649
+  - first:
+      213: 3127955640454436211
+    second: card decks_650
+  - first:
+      213: -2050240257749219994
+    second: card decks_651
+  - first:
+      213: -1965943875487429582
+    second: card decks_652
+  - first:
+      213: 2941875610550692745
+    second: card decks_653
+  - first:
+      213: -9221773458142746702
+    second: card decks_654
+  - first:
+      213: -4436679668164477202
+    second: card decks_655
+  - first:
+      213: 7124427528960308544
+    second: card decks_656
+  - first:
+      213: -3833902894388014928
+    second: card decks_657
+  - first:
+      213: 7062350232706838680
+    second: card decks_658
+  - first:
+      213: -2764632233058422812
+    second: card decks_659
+  - first:
+      213: 7087128052351813080
+    second: card decks_660
+  - first:
+      213: 4727778182543929190
+    second: card decks_661
+  - first:
+      213: -7477152289369850327
+    second: card decks_662
+  - first:
+      213: 6430123292255977651
+    second: card decks_663
+  - first:
+      213: 8404670025400935243
+    second: card decks_664
+  - first:
+      213: 498466316589727619
+    second: card decks_665
+  - first:
+      213: -5827902040550768557
+    second: card decks_666
+  - first:
+      213: 8504401042813918802
+    second: card decks_667
+  - first:
+      213: 2858440454955554140
+    second: card decks_668
+  - first:
+      213: -5448886702876048033
+    second: card decks_669
+  - first:
+      213: 5207782479888858966
+    second: card decks_670
+  - first:
+      213: 3770061375187747905
+    second: card decks_671
+  - first:
+      213: 3764353897644004582
+    second: card decks_672
+  - first:
+      213: 7346488562904432702
+    second: card decks_673
+  - first:
+      213: -7494002525422366735
+    second: card decks_674
+  - first:
+      213: -149067484140216450
+    second: card decks_675
+  - first:
+      213: 9183548178177494460
+    second: card decks_676
+  - first:
+      213: 4551225360866219601
+    second: card decks_677
+  - first:
+      213: -5944645331881015617
+    second: card decks_678
+  - first:
+      213: 3058558276641733681
+    second: card decks_679
+  - first:
+      213: -1387030536969053829
+    second: card decks_680
+  - first:
+      213: -6597560755191999458
+    second: card decks_681
+  - first:
+      213: 5893446161254388788
+    second: card decks_682
+  - first:
+      213: 6691573679516313910
+    second: card decks_683
+  - first:
+      213: -2079316922457704999
+    second: card decks_684
+  - first:
+      213: -6677837166392950474
+    second: card decks_685
+  - first:
+      213: 2349721964228953180
+    second: card decks_686
+  - first:
+      213: -3109788637422726138
+    second: card decks_687
+  - first:
+      213: -2275028391141467986
+    second: card decks_688
+  - first:
+      213: 1613623805178639034
+    second: card decks_689
+  - first:
+      213: -5658559191346658109
+    second: card decks_690
+  - first:
+      213: -9116616738659298933
+    second: card decks_691
+  - first:
+      213: -3480883494530125248
+    second: card decks_692
+  - first:
+      213: 1442304927712060240
+    second: card decks_693
+  - first:
+      213: -8803954843933079014
+    second: card decks_694
+  - first:
+      213: 3720604398856593879
+    second: card decks_695
+  - first:
+      213: 1778628384517981543
+    second: card decks_696
+  - first:
+      213: 2627980545789735337
+    second: card decks_697
+  - first:
+      213: -8043095252911948167
+    second: card decks_698
+  - first:
+      213: -6025116397511584130
+    second: card decks_699
+  - first:
+      213: 2731455393284118734
+    second: card decks_700
+  - first:
+      213: -1042183116034916226
+    second: card decks_701
+  - first:
+      213: 6310947823383839634
+    second: card decks_702
+  - first:
+      213: 5555037465513821008
+    second: card decks_703
+  - first:
+      213: -5188049582395227183
+    second: card decks_704
+  - first:
+      213: 1331802039988210382
+    second: card decks_705
+  - first:
+      213: 6767736045763453083
+    second: card decks_706
+  - first:
+      213: 5607909721201919608
+    second: card decks_707
+  - first:
+      213: -5252631155302479880
+    second: card decks_708
+  - first:
+      213: -1152665633675626827
+    second: card decks_709
+  - first:
+      213: 7492132910608171431
+    second: card decks_710
+  - first:
+      213: 212179149834852219
+    second: card decks_711
+  - first:
+      213: -894915885049119529
+    second: card decks_712
+  - first:
+      213: -4111329692582748202
+    second: card decks_713
+  - first:
+      213: -3676956786779591754
+    second: card decks_714
+  - first:
+      213: 8814003809814736641
+    second: card decks_715
+  - first:
+      213: -1063903981375392896
+    second: card decks_716
+  - first:
+      213: -85339671675385643
+    second: card decks_717
+  - first:
+      213: -4614662802794088236
+    second: card decks_718
+  - first:
+      213: -385427820388187649
+    second: card decks_719
+  - first:
+      213: 1627971268327143657
+    second: card decks_720
+  - first:
+      213: 858335606381820385
+    second: card decks_721
+  - first:
+      213: 1582034375981404597
+    second: card decks_722
+  - first:
+      213: 5484224575485559022
+    second: card decks_723
+  - first:
+      213: -8704665241231519478
+    second: card decks_724
+  - first:
+      213: -2633364370929366179
+    second: card decks_725
+  - first:
+      213: -4850479822728186987
+    second: card decks_726
+  - first:
+      213: -3018656649571447375
+    second: card decks_727
+  - first:
+      213: 2456744068614100821
+    second: card decks_728
+  - first:
+      213: 5657318310516491840
+    second: card decks_729
+  - first:
+      213: -4368721277527501367
+    second: card decks_730
+  - first:
+      213: -5128920672313420825
+    second: card decks_731
+  - first:
+      213: -7906375211133510631
+    second: card decks_732
+  - first:
+      213: 7258283094197152870
+    second: card decks_733
+  - first:
+      213: -327488212149979505
+    second: card decks_734
+  - first:
+      213: -2721004228103626729
+    second: card decks_735
+  - first:
+      213: 2479053972947661032
+    second: card decks_736
+  - first:
+      213: 2845650224402032064
+    second: card decks_737
+  - first:
+      213: 3290508016259864970
+    second: card decks_738
+  - first:
+      213: -4381102073437404317
+    second: card decks_739
+  - first:
+      213: -1162958651266786520
+    second: card decks_740
+  - first:
+      213: -4192918186648070471
+    second: card decks_741
+  - first:
+      213: 8756601604218626204
+    second: card decks_742
+  - first:
+      213: -3272292240650586710
+    second: card decks_743
+  - first:
+      213: -4016261356526091499
+    second: card decks_744
+  - first:
+      213: 8449701275278288482
+    second: card decks_745
+  - first:
+      213: -7914558051224354536
+    second: card decks_746
+  - first:
+      213: -774254408875510883
+    second: card decks_747
+  - first:
+      213: 5744547124254870957
+    second: card decks_748
+  - first:
+      213: 6941316308524234828
+    second: card decks_749
+  - first:
+      213: -4129710539477485984
+    second: card decks_750
+  - first:
+      213: 2551520128767073459
+    second: card decks_751
+  - first:
+      213: 8415591512970727650
+    second: card decks_752
+  - first:
+      213: -9213661903441770688
+    second: card decks_753
+  - first:
+      213: 4175812997944467039
+    second: card decks_754
+  - first:
+      213: 1951155595711258780
+    second: card decks_755
+  - first:
+      213: -975222517914397613
+    second: card decks_756
+  - first:
+      213: 997483088788631246
+    second: card decks_757
+  - first:
+      213: 1431348645637373836
+    second: card decks_758
+  - first:
+      213: 1087455107378456169
+    second: card decks_759
+  - first:
+      213: -3479751286367918258
+    second: card decks_760
+  - first:
+      213: 4031042784189429252
+    second: card decks_761
+  - first:
+      213: 380439461368599750
+    second: card decks_762
+  - first:
+      213: 8710000084416529134
+    second: card decks_763
+  - first:
+      213: -817110190970600622
+    second: card decks_764
+  - first:
+      213: 2249544663105253523
+    second: card decks_765
+  - first:
+      213: -4817032974055557310
+    second: card decks_766
+  - first:
+      213: -3919332700292804584
+    second: card decks_767
+  - first:
+      213: -4407416155289301337
+    second: card decks_768
+  - first:
+      213: -2262255586203650526
+    second: card decks_769
+  - first:
+      213: -516418817015798841
+    second: card decks_770
+  - first:
+      213: -2747482866610635686
+    second: card decks_771
+  - first:
+      213: 8437019397960309565
+    second: card decks_772
+  - first:
+      213: -3375441231563240300
+    second: card decks_773
+  - first:
+      213: -6950457317996856326
+    second: card decks_774
+  - first:
+      213: -5356389728630863293
+    second: card decks_775
+  - first:
+      213: -7098877121651856712
+    second: card decks_776
+  - first:
+      213: 7743311961099817865
+    second: card decks_777
+  - first:
+      213: -7742505808360019566
+    second: card decks_778
+  - first:
+      213: -7892960880246112014
+    second: card decks_779
+  - first:
+      213: -1921525165178553223
+    second: card decks_780
+  - first:
+      213: -99051971316151917
+    second: card decks_781
+  - first:
+      213: -6855743139722465321
+    second: card decks_782
+  - first:
+      213: -4884801765101662835
+    second: card decks_783
+  - first:
+      213: -5984549203123770565
+    second: card decks_784
+  - first:
+      213: 5763730869427125789
+    second: card decks_785
+  - first:
+      213: 4005578076647092099
+    second: card decks_786
+  - first:
+      213: 1547301372511889878
+    second: card decks_787
+  - first:
+      213: -1171488027134105680
+    second: card decks_788
+  - first:
+      213: 6696947909262355291
+    second: card decks_789
+  - first:
+      213: -1502931601185173213
+    second: card decks_790
+  - first:
+      213: -909770771173125574
+    second: card decks_791
+  - first:
+      213: -2938452191411414150
+    second: card decks_792
+  - first:
+      213: 2594474190262188910
+    second: card decks_793
+  - first:
+      213: 233726907751573372
+    second: card decks_794
+  - first:
+      213: -6800936875227775789
+    second: card decks_795
+  - first:
+      213: 8751673653043619668
+    second: card decks_796
+  - first:
+      213: -9048537669007778287
+    second: card decks_797
+  - first:
+      213: 2809797790821276367
+    second: card decks_798
+  - first:
+      213: 7466792226079757402
+    second: card decks_799
+  - first:
+      213: 8123540378638055792
+    second: card decks_800
+  - first:
+      213: -5107271682323952938
+    second: card decks_801
+  - first:
+      213: 6714491686277437769
+    second: card decks_802
+  - first:
+      213: 6622551388342958006
+    second: card decks_803
+  - first:
+      213: 628291424352822544
+    second: card decks_804
+  - first:
+      213: 5536398630236061779
+    second: card decks_805
+  - first:
+      213: 4284298245646729267
+    second: card decks_806
+  - first:
+      213: -5180100782064285269
+    second: card decks_807
+  - first:
+      213: 8503959706963294737
+    second: card decks_808
+  - first:
+      213: 6802681143400293412
+    second: card decks_809
+  - first:
+      213: 245269152138923882
+    second: card decks_810
+  - first:
+      213: 4512921120548353688
+    second: card decks_811
+  - first:
+      213: 8111482723494256763
+    second: card decks_812
+  - first:
+      213: 5312646074216054532
+    second: card decks_813
+  - first:
+      213: 1100184336623573893
+    second: card decks_814
+  - first:
+      213: 6804126850516700915
+    second: card decks_815
+  - first:
+      213: 7850922936869972508
+    second: card decks_816
+  - first:
+      213: 1107063560790872673
+    second: card decks_817
+  - first:
+      213: 4145577156659376886
+    second: card decks_818
+  - first:
+      213: 8171767999434356746
+    second: card decks_819
+  - first:
+      213: 1706356379372579102
+    second: card decks_820
+  - first:
+      213: 860241961129103837
+    second: card decks_821
+  - first:
+      213: -4796449533136742215
+    second: card decks_822
+  - first:
+      213: -3064972862124742879
+    second: card decks_823
+  - first:
+      213: 7407097469628468784
+    second: card decks_824
+  - first:
+      213: 2747634393552635298
+    second: card decks_825
+  - first:
+      213: -709636580372031696
+    second: card decks_826
+  - first:
+      213: -3719253533224945271
+    second: card decks_827
+  - first:
+      213: -4504977046977361637
+    second: card decks_828
+  - first:
+      213: -7595808549776078007
+    second: card decks_829
+  - first:
+      213: 8081651828218839561
+    second: card decks_830
+  - first:
+      213: 5445786713641563327
+    second: card decks_831
+  - first:
+      213: -3556149030595295747
+    second: card decks_832
+  - first:
+      213: -1794015341415598215
+    second: card decks_833
+  - first:
+      213: 5068312825300840578
+    second: card decks_834
+  - first:
+      213: 6400577583397492395
+    second: card decks_835
+  - first:
+      213: 8351862146379472576
+    second: card decks_836
+  - first:
+      213: 9175301744327018428
+    second: card decks_837
+  - first:
+      213: -6835495608975025439
+    second: card decks_838
+  - first:
+      213: -5397626518116425483
+    second: card decks_839
+  - first:
+      213: 6975090711252668949
+    second: card decks_840
+  - first:
+      213: -5430503844422751081
+    second: card decks_841
+  - first:
+      213: 8077647446314563376
+    second: card decks_842
+  - first:
+      213: 3662181561977097970
+    second: card decks_843
+  - first:
+      213: 5387099113421037551
+    second: card decks_844
+  - first:
+      213: -7860929886549370795
+    second: card decks_845
+  - first:
+      213: -7887767497360380436
+    second: card decks_846
+  - first:
+      213: 7511785071173693777
+    second: card decks_847
+  - first:
+      213: -4305563116808900046
+    second: card decks_848
+  - first:
+      213: -7795115538239468125
+    second: card decks_849
+  - first:
+      213: 8618673084764505343
+    second: card decks_850
+  - first:
+      213: -3163424657096733986
+    second: card decks_851
+  - first:
+      213: 8521269916300988284
+    second: card decks_852
+  - first:
+      213: 5647691580975817654
+    second: card decks_853
+  - first:
+      213: 6392763540366574266
+    second: card decks_854
+  - first:
+      213: -1253236027594174907
+    second: card decks_855
+  - first:
+      213: -8271086536364403572
+    second: card decks_856
+  - first:
+      213: -816596033025117183
+    second: card decks_857
+  - first:
+      213: -626040474387690782
+    second: card decks_858
+  - first:
+      213: 7173612318468624745
+    second: card decks_859
+  - first:
+      213: -262117404311243410
+    second: card decks_860
+  - first:
+      213: -4336569940982903101
+    second: card decks_861
+  - first:
+      213: 7972596054255521137
+    second: card decks_862
+  - first:
+      213: -8496976414011157323
+    second: card decks_863
+  - first:
+      213: -3812163565863868487
+    second: card decks_864
+  - first:
+      213: -573643165906292350
+    second: card decks_865
+  - first:
+      213: 7945352063927433795
+    second: card decks_866
+  - first:
+      213: 2891567915065795014
+    second: card decks_867
+  - first:
+      213: -7810650014897931892
+    second: card decks_868
+  - first:
+      213: -3296958292525173844
+    second: card decks_869
+  - first:
+      213: 6744282104375269741
+    second: card decks_870
+  - first:
+      213: -8629533251249922979
+    second: card decks_871
+  - first:
+      213: -5333858669148889444
+    second: card decks_872
+  - first:
+      213: -2009420746176902631
+    second: card decks_873
+  - first:
+      213: -7391236818797578395
+    second: card decks_874
+  - first:
+      213: 4202282255058233708
+    second: card decks_875
+  - first:
+      213: -7976122642035207389
+    second: card decks_876
+  - first:
+      213: 3595114565577743927
+    second: card decks_877
+  - first:
+      213: 2617989088470523684
+    second: card decks_878
+  - first:
+      213: -210121574741393095
+    second: card decks_879
+  - first:
+      213: 6547214649646044352
+    second: card decks_880
+  - first:
+      213: -766412357012917754
+    second: card decks_881
+  - first:
+      213: 3765806357423988362
+    second: card decks_882
+  - first:
+      213: 2209329039191992852
+    second: card decks_883
+  - first:
+      213: -9124679642598178884
+    second: card decks_884
+  - first:
+      213: -8730630921069752101
+    second: card decks_885
+  - first:
+      213: -4060523339788509944
+    second: card decks_886
+  - first:
+      213: 4001760448487181657
+    second: card decks_887
+  - first:
+      213: -3182958383396548119
+    second: card decks_888
+  - first:
+      213: -4263243927686831666
+    second: card decks_889
+  - first:
+      213: -1959243796758605182
+    second: card decks_890
+  - first:
+      213: 7648002613233797301
+    second: card decks_891
+  - first:
+      213: -7303679320230518627
+    second: card decks_892
+  - first:
+      213: -9154303907572426486
+    second: card decks_893
+  - first:
+      213: 9007968801189076178
+    second: card decks_894
+  - first:
+      213: 3460900437508210706
+    second: card decks_895
+  - first:
+      213: 3210407877285907699
+    second: card decks_896
+  - first:
+      213: -6544938163009353832
+    second: card decks_897
+  - first:
+      213: -193839086819700315
+    second: card decks_898
+  - first:
+      213: -844860099517491309
+    second: card decks_899
+  - first:
+      213: -8148138367447129772
+    second: card decks_900
+  - first:
+      213: -6762738653577421571
+    second: card decks_901
+  - first:
+      213: 934030865304857739
+    second: card decks_902
+  - first:
+      213: 5729179963491761332
+    second: card decks_903
+  - first:
+      213: -187920359294491530
+    second: card decks_904
+  - first:
+      213: -5356503805460068467
+    second: card decks_905
+  - first:
+      213: 6970239212029960741
+    second: card decks_906
+  - first:
+      213: 7129244163277316996
+    second: card decks_907
+  - first:
+      213: 8728986905318196078
+    second: card decks_908
+  - first:
+      213: 2154501056099140427
+    second: card decks_909
+  - first:
+      213: 6087652937958407270
+    second: card decks_910
+  - first:
+      213: 2378405623071684231
+    second: card decks_911
+  - first:
+      213: -8966752070789107616
+    second: card decks_912
+  - first:
+      213: 667355282379469516
+    second: card decks_913
+  - first:
+      213: -8600548188489044933
+    second: card decks_914
+  - first:
+      213: 7134374636669621400
+    second: card decks_915
+  - first:
+      213: 8543502849772772872
+    second: card decks_916
+  - first:
+      213: 3105991375753625720
+    second: card decks_917
+  - first:
+      213: -1411460574750401849
+    second: card decks_918
+  - first:
+      213: 8590766485847898237
+    second: card decks_919
+  - first:
+      213: 7920296070938631758
+    second: card decks_920
+  - first:
+      213: 3657033525837219109
+    second: card decks_921
+  - first:
+      213: -5581739474242275417
+    second: card decks_922
+  - first:
+      213: -1645441323990013569
+    second: card decks_923
+  - first:
+      213: -3490084688798511138
+    second: card decks_924
+  - first:
+      213: -6807869257415470378
+    second: card decks_925
+  - first:
+      213: 3441530850809241412
+    second: card decks_926
+  - first:
+      213: 7285187546907281223
+    second: card decks_927
+  - first:
+      213: -4134618699110766511
+    second: card decks_928
+  - first:
+      213: -355137879529754347
+    second: card decks_929
+  - first:
+      213: 9209961101223458
+    second: card decks_930
+  - first:
+      213: 1665835657134273379
+    second: card decks_931
+  - first:
+      213: 8187651353306980832
+    second: card decks_932
+  - first:
+      213: 7707180261139589691
+    second: card decks_933
+  - first:
+      213: -708094118886383591
+    second: card decks_934
+  - first:
+      213: 600472018190865571
+    second: card decks_935
+  - first:
+      213: -7351633637773394270
+    second: card decks_936
+  - first:
+      213: -7903173994055190370
+    second: card decks_937
+  - first:
+      213: 2863719198389759597
+    second: card decks_938
+  - first:
+      213: -6926910153350091710
+    second: card decks_939
+  - first:
+      213: 7520291003818926427
+    second: card decks_940
+  - first:
+      213: -2883209711482175443
+    second: card decks_941
+  - first:
+      213: 2911318326823896687
+    second: card decks_942
+  - first:
+      213: -9008910212319687626
+    second: card decks_943
+  - first:
+      213: 1407483099885562644
+    second: card decks_944
+  - first:
+      213: -4283221230712519648
+    second: card decks_945
+  - first:
+      213: -5394193194702019998
+    second: card decks_946
+  - first:
+      213: 242650513948899133
+    second: card decks_947
+  - first:
+      213: -1291928578524350723
+    second: card decks_948
+  - first:
+      213: 519749660761501903
+    second: card decks_949
+  - first:
+      213: 2881602277542306000
+    second: card decks_950
+  - first:
+      213: 1019266418318108237
+    second: card decks_951
+  - first:
+      213: 993187659885781850
+    second: card decks_952
+  - first:
+      213: 9158421118593553975
+    second: card decks_953
+  - first:
+      213: -7788231322428616779
+    second: card decks_954
+  - first:
+      213: 5620089504407925187
+    second: card decks_955
+  - first:
+      213: -8932269158208272141
+    second: card decks_956
+  - first:
+      213: 1791051901869708475
+    second: card decks_957
+  - first:
+      213: -8140993116270573818
+    second: card decks_958
+  - first:
+      213: -7705025998936975677
+    second: card decks_959
+  - first:
+      213: -7152951315105833430
+    second: card decks_960
+  - first:
+      213: -6610709213384838947
+    second: card decks_961
+  - first:
+      213: -260168707700890586
+    second: card decks_962
+  - first:
+      213: -7091634949098712496
+    second: card decks_963
+  - first:
+      213: -9209308517396689741
+    second: card decks_964
+  - first:
+      213: 6110207122120117017
+    second: card decks_965
+  - first:
+      213: -1593129295580020163
+    second: card decks_966
+  - first:
+      213: -7958613699404570156
+    second: card decks_967
+  - first:
+      213: 8757431624698351485
+    second: card decks_968
+  - first:
+      213: -7876536972382547437
+    second: card decks_969
+  - first:
+      213: 7212291542635719271
+    second: card decks_970
+  - first:
+      213: -8543331364637337008
+    second: card decks_971
+  - first:
+      213: 4449279785886356239
+    second: card decks_972
+  - first:
+      213: 9167280506873381754
+    second: card decks_973
+  - first:
+      213: -5000482073360542748
+    second: card decks_974
+  - first:
+      213: 2079712333533190450
+    second: card decks_975
+  - first:
+      213: 8802117879863571656
+    second: card decks_976
+  - first:
+      213: -2037235829110396032
+    second: card decks_977
+  - first:
+      213: 4897297233709738595
+    second: card decks_978
+  - first:
+      213: 8307737069166301443
+    second: card decks_979
+  - first:
+      213: -5541806133072212166
+    second: card decks_980
+  - first:
+      213: -6992741021500253745
+    second: card decks_981
+  - first:
+      213: 6207075196071146434
+    second: card decks_982
+  - first:
+      213: -6552481318698135326
+    second: card decks_983
+  - first:
+      213: -3503244576506775755
+    second: card decks_984
+  - first:
+      213: 7194711017470517300
+    second: card decks_985
+  - first:
+      213: 3889684607588478487
+    second: card decks_986
+  - first:
+      213: 9060579404086553290
+    second: card decks_987
+  - first:
+      213: 881692789435090295
+    second: card decks_988
+  - first:
+      213: 2566205007205486287
+    second: card decks_989
+  - first:
+      213: -3135919101988557628
+    second: card decks_990
+  - first:
+      213: 3248899894874423153
+    second: card decks_991
+  - first:
+      213: 8052550432028516037
+    second: card decks_992
+  - first:
+      213: 7611740346281561344
+    second: card decks_993
+  - first:
+      213: -2974934193201101561
+    second: card decks_994
+  - first:
+      213: -150775561925752572
+    second: card decks_995
+  - first:
+      213: -8565462716373226331
+    second: card decks_996
+  - first:
+      213: -2243208671182756486
+    second: card decks_997
+  - first:
+      213: 8936109672327157645
+    second: card decks_998
+  - first:
+      213: -5587349917777875298
+    second: card decks_999
+  - first:
+      213: -1094216107373354563
+    second: card decks_1000
+  - first:
+      213: 7012007481124397838
+    second: card decks_1001
+  - first:
+      213: -7253786627013044620
+    second: card decks_1002
+  - first:
+      213: 8182692683867567101
+    second: card decks_1003
+  - first:
+      213: 4106448871327345699
+    second: card decks_1004
+  - first:
+      213: -1203228712070625380
+    second: card decks_1005
+  - first:
+      213: 3410045676304144883
+    second: card decks_1006
+  - first:
+      213: -3745089750210872019
+    second: card decks_1007
+  - first:
+      213: 3377091406903668032
+    second: card decks_1008
+  - first:
+      213: -3253630274593505435
+    second: card decks_1009
+  - first:
+      213: 1527956204945828419
+    second: card decks_1010
+  - first:
+      213: 1338412358684330318
+    second: card decks_1011
+  - first:
+      213: -7915768469424427561
+    second: card decks_1012
+  - first:
+      213: 3003463566425608451
+    second: card decks_1013
+  - first:
+      213: -1539308607160898445
+    second: card decks_1014
+  - first:
+      213: 1074693817164779536
+    second: card decks_1015
+  - first:
+      213: 3071002454534887859
+    second: card decks_1016
+  - first:
+      213: 1310760989952502285
+    second: card decks_1017
+  - first:
+      213: -6614203334345871579
+    second: card decks_1018
+  - first:
+      213: 1653516671646560892
+    second: card decks_1019
+  - first:
+      213: 7242000754780951680
+    second: card decks_1020
+  - first:
+      213: -549631084895722084
+    second: card decks_1021
+  - first:
+      213: 7758698560037665416
+    second: card decks_1022
+  - first:
+      213: 1574388062937788978
+    second: card decks_1023
+  - first:
+      213: 8652973336097224262
+    second: card decks_1024
+  - first:
+      213: -3478046213912755493
+    second: card decks_1025
+  - first:
+      213: 4554677175137909880
+    second: card decks_1026
+  - first:
+      213: 7590367840206177120
+    second: card decks_1027
+  - first:
+      213: -8847659306953894701
+    second: card decks_1028
+  - first:
+      213: -2984268762426203951
+    second: card decks_1029
+  - first:
+      213: 2549278915864691696
+    second: card decks_1030
+  - first:
+      213: -7166934988618727909
+    second: card decks_1031
+  - first:
+      213: 4057658653835855628
+    second: card decks_1032
+  - first:
+      213: 3308026413488773172
+    second: card decks_1033
+  - first:
+      213: -4047075721473983097
+    second: card decks_1034
+  - first:
+      213: 5438019911698183978
+    second: card decks_1035
+  - first:
+      213: -4654924274959269132
+    second: card decks_1036
+  - first:
+      213: -4126681154900365770
+    second: card decks_1037
+  - first:
+      213: -6271652451450606729
+    second: card decks_1038
+  - first:
+      213: 4686349038415782843
+    second: card decks_1039
+  - first:
+      213: -7794232719511395614
+    second: card decks_1040
+  - first:
+      213: -281915417244465783
+    second: card decks_1041
+  - first:
+      213: -5320018013737131893
+    second: card decks_1042
+  - first:
+      213: 8066631113076121109
+    second: card decks_1043
+  - first:
+      213: -2366109315343694204
+    second: card decks_1044
+  - first:
+      213: -8076461008641885231
+    second: card decks_1045
+  - first:
+      213: -2084614280543824059
+    second: card decks_1046
+  - first:
+      213: -6074881710597244234
+    second: card decks_1047
+  - first:
+      213: 4882965391611948578
+    second: card decks_1048
+  - first:
+      213: 8770087232924239919
+    second: card decks_1049
+  - first:
+      213: -569478866331617188
+    second: card decks_1050
+  - first:
+      213: 6562962330344651958
+    second: card decks_1051
+  - first:
+      213: 8108698144382957799
+    second: card decks_1052
+  - first:
+      213: 6730655874736049324
+    second: card decks_1053
+  - first:
+      213: 7917153310406498330
+    second: card decks_1054
+  - first:
+      213: -2307868445527175455
+    second: card decks_1055
+  - first:
+      213: 7798033401653596416
+    second: card decks_1056
+  - first:
+      213: 3837576331924216733
+    second: card decks_1057
+  - first:
+      213: -322795372233859081
+    second: card decks_1058
+  - first:
+      213: 817501383299798945
+    second: card decks_1059
+  - first:
+      213: 3205216911665968032
+    second: card decks_1060
+  - first:
+      213: -5425568409209742443
+    second: card decks_1061
+  - first:
+      213: 2132874781413871480
+    second: card decks_1062
+  - first:
+      213: -2197824528760322840
+    second: card decks_1063
+  - first:
+      213: -3747604135429902212
+    second: card decks_1064
+  - first:
+      213: 4523710948547764235
+    second: card decks_1065
+  - first:
+      213: -8519936601441652785
+    second: card decks_1066
+  - first:
+      213: -5874824688072513076
+    second: card decks_1067
+  - first:
+      213: 6204836235631631147
+    second: card decks_1068
+  - first:
+      213: 2081300845684277851
+    second: card decks_1069
+  - first:
+      213: 4579008992588166858
+    second: card decks_1070
+  - first:
+      213: 1330168099412864648
+    second: card decks_1071
+  - first:
+      213: 6073947847726754184
+    second: card decks_1072
+  - first:
+      213: -350720056824801037
+    second: card decks_1073
+  - first:
+      213: 8433918180360923783
+    second: card decks_1074
+  - first:
+      213: 9205631602727302769
+    second: card decks_1075
+  - first:
+      213: -3377445792498511019
+    second: card decks_1076
+  - first:
+      213: -1692442858916232009
+    second: card decks_1077
+  - first:
+      213: 8033488584378995179
+    second: card decks_1078
+  - first:
+      213: -3380130891748242462
+    second: card decks_1079
+  - first:
+      213: -2268037507089472238
+    second: card decks_1080
+  - first:
+      213: -7061072880955855810
+    second: card decks_1081
+  - first:
+      213: 6434724274273196735
+    second: card decks_1082
+  - first:
+      213: 1083401338284063581
+    second: card decks_1083
+  - first:
+      213: 1146504893017512783
+    second: card decks_1084
+  - first:
+      213: -6690153414032075031
+    second: card decks_1085
+  - first:
+      213: 3178259386737081460
+    second: card decks_1086
+  - first:
+      213: -5862786058163150287
+    second: card decks_1087
+  - first:
+      213: -9193035540934947150
+    second: card decks_1088
+  - first:
+      213: 7113838750103565614
+    second: card decks_1089
+  - first:
+      213: 294884836517229390
+    second: card decks_1090
+  - first:
+      213: -2216077909312756572
+    second: card decks_1091
+  - first:
+      213: -8630688784773888917
+    second: card decks_1092
+  - first:
+      213: -8724001933980628968
+    second: card decks_1093
+  - first:
+      213: -3327882529149705947
+    second: card decks_1094
+  - first:
+      213: -7162409325576871250
+    second: card decks_1095
+  - first:
+      213: -9059912369698376609
+    second: card decks_1096
+  - first:
+      213: -2522162881233183319
+    second: card decks_1097
+  - first:
+      213: 8424979862194793769
+    second: card decks_1098
+  - first:
+      213: 4849119190312863729
+    second: card decks_1099
+  - first:
+      213: -8276448326838869969
+    second: card decks_1100
+  - first:
+      213: 2762484457950495761
+    second: card decks_1101
+  - first:
+      213: 2736303320172335612
+    second: card decks_1102
+  - first:
+      213: -1265787322804313641
+    second: card decks_1103
+  - first:
+      213: -5044958865231346786
+    second: card decks_1104
+  - first:
+      213: -1455582481379611719
+    second: card decks_1105
+  - first:
+      213: 6585018782097682614
+    second: card decks_1106
+  - first:
+      213: -7922939834502003472
+    second: card decks_1107
+  - first:
+      213: 6346024529162067362
+    second: card decks_1108
+  - first:
+      213: 80605625300543582
+    second: card decks_1109
+  - first:
+      213: -8187902701001386795
+    second: card decks_1110
+  - first:
+      213: 1511677580434300620
+    second: card decks_1111
+  - first:
+      213: -7100016223123428940
+    second: card decks_1112
+  - first:
+      213: 4392178008602772301
+    second: card decks_1113
+  - first:
+      213: -5087503437353679652
+    second: card decks_1114
+  - first:
+      213: 5083957252734194847
+    second: card decks_1115
+  - first:
+      213: -6564685142679094366
+    second: card decks_1116
+  - first:
+      213: 1975285076079515337
+    second: card decks_1117
+  - first:
+      213: 5956323931294702969
+    second: card decks_1118
+  - first:
+      213: -5762668836027778599
+    second: card decks_1119
+  - first:
+      213: -8012890783209607180
+    second: card decks_1120
+  - first:
+      213: 5860673444943319877
+    second: card decks_1121
+  - first:
+      213: 2162838762737151915
+    second: card decks_1122
+  - first:
+      213: 594620758202092036
+    second: card decks_1123
+  - first:
+      213: -8383364405280285874
+    second: card decks_1124
+  - first:
+      213: 8166430084831019762
+    second: card decks_1125
+  - first:
+      213: 23667721097029819
+    second: card decks_1126
+  - first:
+      213: -8765317111268076364
+    second: card decks_1127
+  - first:
+      213: 210025875509824209
+    second: card decks_1128
+  - first:
+      213: 5426102457474087538
+    second: card decks_1129
+  - first:
+      213: -1807489138504909742
+    second: card decks_1130
+  - first:
+      213: -4947818794841596949
+    second: card decks_1131
+  - first:
+      213: 6152655311871218364
+    second: card decks_1132
+  - first:
+      213: -2447987357243078174
+    second: card decks_1133
+  - first:
+      213: 4443612275753742050
+    second: card decks_1134
+  - first:
+      213: 3107766639102327405
+    second: card decks_1135
+  - first:
+      213: 3129905926106618947
+    second: card decks_1136
+  - first:
+      213: -5330859381407396220
+    second: card decks_1137
+  - first:
+      213: -3675101726155189812
+    second: card decks_1138
+  - first:
+      213: -4725977877457157351
+    second: card decks_1139
+  - first:
+      213: 6784538712132157073
+    second: card decks_1140
+  - first:
+      213: -6244709097057536454
+    second: card decks_1141
+  - first:
+      213: -6441643334399948472
+    second: card decks_1142
+  - first:
+      213: 4392310406655354872
+    second: card decks_1143
+  - first:
+      213: -5720074940193658473
+    second: card decks_1144
+  - first:
+      213: -3725522637975739133
+    second: card decks_1145
+  - first:
+      213: -7759287894148576862
+    second: card decks_1146
+  - first:
+      213: -1303653607660740489
+    second: card decks_1147
+  - first:
+      213: -5687724461574959408
+    second: card decks_1148
+  - first:
+      213: 2913321698389837747
+    second: card decks_1149
+  - first:
+      213: 3135332258503246683
+    second: card decks_1150
+  - first:
+      213: -2379674459229496520
+    second: card decks_1151
+  - first:
+      213: 8536100674417515648
+    second: card decks_1152
+  - first:
+      213: 4281111956941946010
+    second: card decks_1153
+  - first:
+      213: 5362955241039269440
+    second: card decks_1154
+  - first:
+      213: -3301258114973059619
+    second: card decks_1155
+  - first:
+      213: -3562767211977246011
+    second: card decks_1156
+  - first:
+      213: 529511563738988147
+    second: card decks_1157
+  - first:
+      213: 4844437254003554976
+    second: card decks_1158
+  - first:
+      213: -3948506545427687275
+    second: card decks_1159
+  - first:
+      213: -7465787438348843473
+    second: card decks_1160
+  - first:
+      213: 4015222756253637023
+    second: card decks_1161
+  - first:
+      213: -650228519167996609
+    second: card decks_1162
+  - first:
+      213: -2901475422419640441
+    second: card decks_1163
+  - first:
+      213: 3161825240816902470
+    second: card decks_1164
+  - first:
+      213: 2509316797033728885
+    second: card decks_1165
+  - first:
+      213: 2810635652001477198
+    second: card decks_1166
+  - first:
+      213: 3683092223867729045
+    second: card decks_1167
+  - first:
+      213: 8645239470225627503
+    second: card decks_1168
+  - first:
+      213: 5020813379519788840
+    second: card decks_1169
+  - first:
+      213: 8929977271046045361
+    second: card decks_1170
+  - first:
+      213: 6264202768336949349
+    second: card decks_1171
+  - first:
+      213: 8785725084723696332
+    second: card decks_1172
+  - first:
+      213: 4894850078483457308
+    second: card decks_1173
+  - first:
+      213: -5344788485210244569
+    second: card decks_1174
+  - first:
+      213: -7025383053709369288
+    second: card decks_1175
+  - first:
+      213: -9188596413275800283
+    second: card decks_1176
+  - first:
+      213: -3179626337860465422
+    second: card decks_1177
+  - first:
+      213: 403681435048867239
+    second: card decks_1178
+  - first:
+      213: -5252775215732906700
+    second: card decks_1179
+  - first:
+      213: 6440476662819724985
+    second: card decks_1180
+  - first:
+      213: -9076405289970841245
+    second: card decks_1181
+  - first:
+      213: -737734086500468556
+    second: card decks_1182
+  - first:
+      213: -1895869923281240645
+    second: card decks_1183
+  - first:
+      213: 3010481493179963105
+    second: card decks_1184
+  - first:
+      213: 2849839837409201907
+    second: card decks_1185
+  - first:
+      213: -4098229800112559822
+    second: card decks_1186
+  - first:
+      213: 384502068796043788
+    second: card decks_1187
+  - first:
+      213: 986288554905043423
+    second: card decks_1188
+  - first:
+      213: -7284328161907028084
+    second: card decks_1189
+  - first:
+      213: 1093982375099791629
+    second: card decks_1190
+  - first:
+      213: 8546732116399562783
+    second: card decks_1191
+  - first:
+      213: 131569684491079810
+    second: card decks_1192
+  - first:
+      213: 5237542301817309456
+    second: card decks_1193
+  - first:
+      213: -4706128584436846782
+    second: card decks_1194
+  - first:
+      213: -2437459320406787299
+    second: card decks_1195
+  - first:
+      213: 6693043564454994919
+    second: card decks_1196
+  - first:
+      213: -4276520256154164470
+    second: card decks_1197
+  - first:
+      213: 2236124547570832281
+    second: card decks_1198
+  - first:
+      213: -5410923479603039082
+    second: card decks_1199
+  - first:
+      213: -7624100225851920871
+    second: card decks_1200
+  - first:
+      213: 1534235037777196337
+    second: card decks_1201
+  - first:
+      213: -972995727081541939
+    second: card decks_1202
+  - first:
+      213: -3563780436809483713
+    second: card decks_1203
+  - first:
+      213: 4409087331617904373
+    second: card decks_1204
+  - first:
+      213: 276545165175611824
+    second: card decks_1205
+  - first:
+      213: -8877374008517740721
+    second: card decks_1206
+  - first:
+      213: 3176138522553070979
+    second: card decks_1207
+  - first:
+      213: -2518261671482764693
+    second: card decks_1208
+  - first:
+      213: 992317782043710735
+    second: card decks_1209
+  - first:
+      213: 2281431185874186833
+    second: card decks_1210
+  - first:
+      213: -8034914739190309223
+    second: card decks_1211
+  - first:
+      213: 2150288019883143281
+    second: card decks_1212
+  - first:
+      213: -3865485916435377920
+    second: card decks_1213
+  - first:
+      213: 5136210921647753318
+    second: card decks_1214
+  - first:
+      213: 198920199784625032
+    second: card decks_1215
+  - first:
+      213: 2398979012891088949
+    second: card decks_1216
+  - first:
+      213: 9045234023636884768
+    second: card decks_1217
+  - first:
+      213: -6535708006010075548
+    second: card decks_1218
+  - first:
+      213: 3182705245398809608
+    second: card decks_1219
+  - first:
+      213: 4708371141353961755
+    second: card decks_1220
+  - first:
+      213: -4270023192942484143
+    second: card decks_1221
+  - first:
+      213: 7198913428346089979
+    second: card decks_1222
+  - first:
+      213: 8182532337749237743
+    second: card decks_1223
+  - first:
+      213: 7297420037159847823
+    second: card decks_1224
+  - first:
+      213: 3872174890499638034
+    second: card decks_1225
+  - first:
+      213: 1831657234100266514
+    second: card decks_1226
+  - first:
+      213: 8059406781554007375
+    second: card decks_1227
+  - first:
+      213: -2993175802915067568
+    second: card decks_1228
+  - first:
+      213: 4799181965378532137
+    second: card decks_1229
+  - first:
+      213: 2142045450646131986
+    second: card decks_1230
+  - first:
+      213: 5418470120481699808
+    second: card decks_1231
+  - first:
+      213: -7709240667959570595
+    second: card decks_1232
+  - first:
+      213: 7067772603941274455
+    second: card decks_1233
+  - first:
+      213: -3915250551620874490
+    second: card decks_1234
+  - first:
+      213: -8182602377712415723
+    second: card decks_1235
+  - first:
+      213: -8996551296258281107
+    second: card decks_1236
+  - first:
+      213: 3329170866229401333
+    second: card decks_1237
+  - first:
+      213: -3844098054689116348
+    second: card decks_1238
+  - first:
+      213: -8616521493475045947
+    second: card decks_1239
+  - first:
+      213: -2711123640231229061
+    second: card decks_1240
+  - first:
+      213: 7955309712008969348
+    second: card decks_1241
+  - first:
+      213: -8005290835913850664
+    second: card decks_1242
+  - first:
+      213: 3093654253892252734
+    second: card decks_1243
+  - first:
+      213: -5430185827428088493
+    second: card decks_1244
+  - first:
+      213: -7458063518537231342
+    second: card decks_1245
+  - first:
+      213: 3793145957265016356
+    second: card decks_1246
+  - first:
+      213: -1219496861697095371
+    second: card decks_1247
+  - first:
+      213: 8599082383476480061
+    second: card decks_1248
+  - first:
+      213: 7790961627102710623
+    second: card decks_1249
+  - first:
+      213: -1857423085742780800
+    second: card decks_1250
+  - first:
+      213: 728551141666076582
+    second: card decks_1251
+  - first:
+      213: -4388868448806363587
+    second: card decks_1252
+  - first:
+      213: 3562231232596269967
+    second: card decks_1253
+  - first:
+      213: 6965239051005092801
+    second: card decks_1254
+  - first:
+      213: -8335197916626870180
+    second: card decks_1255
+  - first:
+      213: -4067434356798871331
+    second: card decks_1256
+  - first:
+      213: 6171110268730779144
+    second: card decks_1257
+  - first:
+      213: 3338831384962758408
+    second: card decks_1258
+  - first:
+      213: 4931682270651109842
+    second: card decks_1259
+  - first:
+      213: -6402520702050869680
+    second: card decks_1260
+  - first:
+      213: 5796948486807899879
+    second: card decks_1261
+  - first:
+      213: 1180924887557242698
+    second: card decks_1262
+  - first:
+      213: 4201117296773034934
+    second: card decks_1263
+  - first:
+      213: 298336304463191530
+    second: card decks_1264
+  - first:
+      213: 1466699149804491812
+    second: card decks_1265
+  - first:
+      213: 3421042166681404708
+    second: card decks_1266
+  - first:
+      213: 5472248298635306319
+    second: card decks_1267
+  - first:
+      213: -6008388597263257456
+    second: card decks_1268
+  - first:
+      213: -3037656222872294766
+    second: card decks_1269
+  - first:
+      213: 6272012040218216665
+    second: card decks_1270
+  - first:
+      213: 3034559732269372005
+    second: card decks_1271
+  - first:
+      213: 5026069388469747580
+    second: card decks_1272
+  - first:
+      213: 5503520365645588969
+    second: card decks_1273
+  - first:
+      213: 5846487134637428437
+    second: card decks_1274
+  - first:
+      213: 6775663079318805007
+    second: card decks_1275
+  - first:
+      213: -3400359661928120441
+    second: card decks_1276
+  - first:
+      213: -3886035643670105320
+    second: card decks_1277
+  - first:
+      213: -2863368166314806320
+    second: card decks_1278
+  - first:
+      213: -5539041824707508333
+    second: card decks_1279
+  - first:
+      213: 5936089264380795378
+    second: card decks_1280
+  - first:
+      213: -951851963854869218
+    second: card decks_1281
+  - first:
+      213: -4067576569222797661
+    second: card decks_1282
+  - first:
+      213: -6199073335609737853
+    second: card decks_1283
+  - first:
+      213: -7927595986190367804
+    second: card decks_1284
+  - first:
+      213: 872410338090003555
+    second: card decks_1285
+  - first:
+      213: 1598732920113472007
+    second: card decks_1286
+  - first:
+      213: 5909208408272538464
+    second: card decks_1287
+  - first:
+      213: -2174059008803886174
+    second: card decks_1288
+  - first:
+      213: -637582948411521429
+    second: card decks_1289
+  - first:
+      213: -8613671819299618711
+    second: card decks_1290
+  - first:
+      213: -1391163644750615936
+    second: card decks_1291
+  - first:
+      213: 8331844863731779836
+    second: card decks_1292
+  - first:
+      213: 4090104289363521792
+    second: card decks_1293
+  - first:
+      213: 6852767587062772666
+    second: card decks_1294
+  - first:
+      213: 6204543734517947239
+    second: card decks_1295
+  - first:
+      213: 1846630467668325086
+    second: card decks_1296
+  - first:
+      213: -2753850049400136594
+    second: card decks_1297
+  - first:
+      213: -6546900154017364507
+    second: card decks_1298
+  - first:
+      213: -7824982516822084445
+    second: card decks_1299
+  - first:
+      213: 8212031609370202169
+    second: card decks_1300
+  - first:
+      213: 3505416592119841238
+    second: card decks_1301
+  - first:
+      213: 2217323504399737330
+    second: card decks_1302
+  - first:
+      213: 2784145579262448932
+    second: card decks_1303
+  - first:
+      213: -2779992540464895487
+    second: card decks_1304
+  - first:
+      213: -4169400860618152057
+    second: card decks_1305
+  - first:
+      213: -2987919725812611468
+    second: card decks_1306
+  - first:
+      213: 1500190986259648568
+    second: card decks_1307
+  - first:
+      213: -1138737511442159244
+    second: card decks_1308
+  - first:
+      213: 1603779791335932861
+    second: card decks_1309
+  - first:
+      213: 1252449185528055365
+    second: card decks_1310
+  - first:
+      213: 107404623906625728
+    second: card decks_1311
+  - first:
+      213: 2924901517847558748
+    second: card decks_1312
+  - first:
+      213: 8503697059574133574
+    second: card decks_1313
+  - first:
+      213: -7335675435430722559
+    second: card decks_1314
+  - first:
+      213: 2778864501547534283
+    second: card decks_1315
+  - first:
+      213: 4108175640406614316
+    second: card decks_1316
+  - first:
+      213: 2189226407674307547
+    second: card decks_1317
+  - first:
+      213: 1820279833061715870
+    second: card decks_1318
+  - first:
+      213: -2683335429305004425
+    second: card decks_1319
+  - first:
+      213: -502504022835383881
+    second: card decks_1320
+  - first:
+      213: 691092106458149321
+    second: card decks_1321
+  - first:
+      213: 1298622174901309192
+    second: card decks_1322
+  - first:
+      213: -3559938493679064047
+    second: card decks_1323
+  - first:
+      213: -2190695177240821899
+    second: card decks_1324
+  - first:
+      213: -5802408788236989337
+    second: card decks_1325
+  - first:
+      213: -2890201727265596726
+    second: card decks_1326
+  - first:
+      213: -7282735414914825620
+    second: card decks_1327
+  - first:
+      213: -4825893660912545418
+    second: card decks_1328
+  - first:
+      213: 5141520498187969134
+    second: card decks_1329
+  - first:
+      213: 1699471067125065820
+    second: card decks_1330
+  - first:
+      213: 2053463636431173345
+    second: card decks_1331
+  - first:
+      213: 5708864971059990854
+    second: card decks_1332
+  - first:
+      213: 5916945030531063211
+    second: card decks_1333
+  - first:
+      213: 1280477825617264093
+    second: card decks_1334
+  - first:
+      213: -8929110514784925547
+    second: card decks_1335
+  - first:
+      213: -2910997546314037912
+    second: card decks_1336
+  - first:
+      213: -1334046496849590309
+    second: card decks_1337
+  - first:
+      213: -1872613308078979546
+    second: card decks_1338
+  - first:
+      213: -1187690886311819476
+    second: card decks_1339
+  - first:
+      213: 2798139206343189346
+    second: card decks_1340
+  - first:
+      213: -1608247901257459452
+    second: card decks_1341
+  - first:
+      213: 3143222107535431555
+    second: card decks_1342
+  - first:
+      213: -7428216941156444073
+    second: card decks_1343
+  - first:
+      213: -2468498843401394016
+    second: card decks_1344
+  - first:
+      213: 5586536262022099453
+    second: card decks_1345
+  - first:
+      213: 2400262409498908307
+    second: card decks_1346
+  - first:
+      213: -4403966093470516845
+    second: card decks_1347
+  - first:
+      213: 8213866444436139781
+    second: card decks_1348
+  - first:
+      213: 7727626938916671762
+    second: card decks_1349
+  - first:
+      213: -5311209798815790570
+    second: card decks_1350
+  - first:
+      213: -4969019666566843716
+    second: card decks_1351
+  - first:
+      213: 7269755839332162815
+    second: card decks_1352
+  - first:
+      213: 9194525558835468519
+    second: card decks_1353
+  - first:
+      213: 7351258479710253821
+    second: card decks_1354
+  - first:
+      213: -5145317642792960440
+    second: card decks_1355
+  - first:
+      213: 6219261075597297019
+    second: card decks_1356
+  - first:
+      213: 6474771520862456031
+    second: card decks_1357
+  - first:
+      213: -2266888503987120324
+    second: card decks_1358
+  - first:
+      213: 9169476895372457811
+    second: card decks_1359
+  - first:
+      213: 2574074706998441606
+    second: card decks_1360
+  - first:
+      213: 6745747020897671711
+    second: card decks_1361
+  - first:
+      213: -6924705932721902139
+    second: card decks_1362
+  - first:
+      213: -3551847530852603725
+    second: card decks_1363
+  - first:
+      213: 6829928993464699073
+    second: card decks_1364
+  - first:
+      213: 76761198789172621
+    second: card decks_1365
+  - first:
+      213: -4897516825975785565
+    second: card decks_1366
+  - first:
+      213: 267473917970457966
+    second: card decks_1367
+  - first:
+      213: 249085575054845312
+    second: card decks_1368
+  - first:
+      213: 8599851271314475360
+    second: card decks_1369
+  - first:
+      213: -1623947630901651514
+    second: card decks_1370
+  - first:
+      213: 2412848579436504296
+    second: card decks_1371
+  - first:
+      213: -7196508601192655782
+    second: card decks_1372
+  - first:
+      213: 4087789377985721129
+    second: card decks_1373
+  - first:
+      213: 2068098922926348574
+    second: card decks_1374
+  - first:
+      213: -6079105090209557307
+    second: card decks_1375
+  - first:
+      213: -3542382632600709733
+    second: card decks_1376
+  - first:
+      213: -8900285936951413124
+    second: card decks_1377
+  - first:
+      213: 8278435911948126350
+    second: card decks_1378
+  - first:
+      213: -4856843606404312284
+    second: card decks_1379
+  - first:
+      213: -2752315385800170425
+    second: card decks_1380
+  - first:
+      213: -9014182699452317034
+    second: card decks_1381
+  - first:
+      213: -5204193642867852762
+    second: card decks_1382
+  - first:
+      213: -5811046946065057243
+    second: card decks_1383
+  - first:
+      213: -2698020405157393892
+    second: card decks_1384
+  - first:
+      213: 7399080075728138383
+    second: card decks_1385
+  - first:
+      213: -4577359378237826978
+    second: card decks_1386
+  - first:
+      213: 1100458310154341242
+    second: card decks_1387
+  - first:
+      213: -5368382467635414549
+    second: card decks_1388
+  - first:
+      213: 3190669599581249614
+    second: card decks_1389
+  - first:
+      213: -4996453399571908677
+    second: card decks_1390
+  - first:
+      213: 3431914285737668624
+    second: card decks_1391
+  - first:
+      213: -3951118477647400874
+    second: card decks_1392
+  - first:
+      213: -1138263308704651632
+    second: card decks_1393
+  - first:
+      213: -5714396557731711407
+    second: card decks_1394
+  - first:
+      213: -9088833716745268640
+    second: card decks_1395
+  - first:
+      213: 8431357202227321622
+    second: card decks_1396
+  - first:
+      213: 90979834592186105
+    second: card decks_1397
+  - first:
+      213: 539659660404912479
+    second: card decks_1398
+  - first:
+      213: 5461686007436714786
+    second: card decks_1399
+  - first:
+      213: 7786107235344947545
+    second: card decks_1400
+  - first:
+      213: -5785881875936974147
+    second: card decks_1401
+  - first:
+      213: 7818593817100063632
+    second: card decks_1402
+  - first:
+      213: -6198190284465004625
+    second: card decks_1403
+  - first:
+      213: -3144587648653770666
+    second: card decks_1404
+  - first:
+      213: 7339178989308879691
+    second: card decks_1405
+  - first:
+      213: -3766172636772053154
+    second: card decks_1406
+  - first:
+      213: 2780808695959567470
+    second: card decks_1407
+  - first:
+      213: -3458952032487885483
+    second: card decks_1408
+  - first:
+      213: -4932149772851101469
+    second: card decks_1409
+  - first:
+      213: -6785704629520732260
+    second: card decks_1410
+  - first:
+      213: -5221328159659366605
+    second: card decks_1411
+  - first:
+      213: -13800674310855893
+    second: card decks_1412
+  - first:
+      213: -3981749923472268423
+    second: card decks_1413
+  - first:
+      213: -2576664086217324148
+    second: card decks_1414
+  - first:
+      213: -6876015573265146536
+    second: card decks_1415
+  - first:
+      213: -9162207653949717438
+    second: card decks_1416
+  - first:
+      213: -583960229246715927
+    second: card decks_1417
+  - first:
+      213: -8553749628005926065
+    second: card decks_1418
+  - first:
+      213: 6891115007184439665
+    second: card decks_1419
+  - first:
+      213: 7696357107060999918
+    second: card decks_1420
+  - first:
+      213: 5853369095746642139
+    second: card decks_1421
+  - first:
+      213: -5865515635352588554
+    second: card decks_1422
+  - first:
+      213: 9071303448228988847
+    second: card decks_1423
+  - first:
+      213: -7692800511585285851
+    second: card decks_1424
+  - first:
+      213: -7724690061855176034
+    second: card decks_1425
+  - first:
+      213: -4727987535208431351
+    second: card decks_1426
+  - first:
+      213: 3524622685594012888
+    second: card decks_1427
+  - first:
+      213: -1534208352153428934
+    second: card decks_1428
+  - first:
+      213: 4276784875193540406
+    second: card decks_1429
+  - first:
+      213: -7376731191806328995
+    second: card decks_1430
+  - first:
+      213: -728848701970348772
+    second: card decks_1431
+  - first:
+      213: 5168261444460503350
+    second: card decks_1432
+  - first:
+      213: -6712946822656616739
+    second: card decks_1433
+  - first:
+      213: 4992531493631532108
+    second: card decks_1434
+  - first:
+      213: 7196044153474345616
+    second: card decks_1435
+  - first:
+      213: -1315485602545947135
+    second: card decks_1436
+  - first:
+      213: 6090248896064415140
+    second: card decks_1437
+  - first:
+      213: 9168315809774984412
+    second: card decks_1438
+  - first:
+      213: 705373809207669456
+    second: card decks_1439
+  - first:
+      213: -6251597354910052531
+    second: card decks_1440
+  - first:
+      213: -683491532170679666
+    second: card decks_1441
+  - first:
+      213: -2283610370555678538
+    second: card decks_1442
+  - first:
+      213: 588787168565299998
+    second: card decks_1443
+  - first:
+      213: 1097696004372795305
+    second: card decks_1444
+  - first:
+      213: 5176953956100263772
+    second: card decks_1445
+  - first:
+      213: -6509445544450234372
+    second: card decks_1446
+  - first:
+      213: -8970812992403350541
+    second: card decks_1447
+  - first:
+      213: -236680367327438080
+    second: card decks_1448
+  - first:
+      213: -2370755461408824022
+    second: card decks_1449
+  - first:
+      213: 439309934713463165
+    second: card decks_1450
+  - first:
+      213: 2084914188005102629
+    second: card decks_1451
+  - first:
+      213: -5903474591732722413
+    second: card decks_1452
+  - first:
+      213: -6028645326948677569
+    second: card decks_1453
+  - first:
+      213: -4223365686735580711
+    second: card decks_1454
+  - first:
+      213: -7176773414670296914
+    second: card decks_1455
+  - first:
+      213: 8478970300159477314
+    second: card decks_1456
+  - first:
+      213: -448267363802263843
+    second: card decks_1457
+  - first:
+      213: -4230217520303057040
+    second: card decks_1458
+  - first:
+      213: 7621685184074250266
+    second: card decks_1459
+  - first:
+      213: 3826453206891916015
+    second: card decks_1460
+  - first:
+      213: 8358092170520832354
+    second: card decks_1461
+  - first:
+      213: -531831227113238812
+    second: card decks_1462
+  - first:
+      213: 8938080458035055572
+    second: card decks_1463
+  - first:
+      213: -5047504646509343176
+    second: card decks_1464
+  - first:
+      213: 4326022433832225594
+    second: card decks_1465
+  - first:
+      213: -2444675076200991758
+    second: card decks_1466
+  - first:
+      213: -6705836482408286294
+    second: card decks_1467
+  - first:
+      213: 2262161284172282664
+    second: card decks_1468
+  - first:
+      213: -8200785710578390634
+    second: card decks_1469
+  - first:
+      213: -4266371897805347553
+    second: card decks_1470
+  - first:
+      213: -2911674701326734465
+    second: card decks_1471
+  - first:
+      213: -2780068403513155208
+    second: card decks_1472
+  - first:
+      213: -3298912083285199900
+    second: card decks_1473
+  - first:
+      213: -4193970240956802178
+    second: card decks_1474
+  - first:
+      213: 8766447042554875589
+    second: card decks_1475
+  - first:
+      213: 7875760703468339678
+    second: card decks_1476
+  - first:
+      213: -1138304533479982472
+    second: card decks_1477
+  - first:
+      213: 3906508647248085386
+    second: card decks_1478
+  - first:
+      213: -6142189098507816594
+    second: card decks_1479
+  - first:
+      213: 143962132112868478
+    second: card decks_1480
+  - first:
+      213: 2399246502475465527
+    second: card decks_1481
+  - first:
+      213: 8328923575878410392
+    second: card decks_1482
+  - first:
+      213: -5454353336018440129
+    second: card decks_1483
+  - first:
+      213: 4084492170518213903
+    second: card decks_1484
+  - first:
+      213: -7232785040002824781
+    second: card decks_1485
+  - first:
+      213: -3562899451173602870
+    second: card decks_1486
+  - first:
+      213: 4885341287864740731
+    second: card decks_1487
+  - first:
+      213: 8762950032969033546
+    second: card decks_1488
+  - first:
+      213: 7033336201424204386
+    second: card decks_1489
+  - first:
+      213: -8294642956146140384
+    second: card decks_1490
+  - first:
+      213: -6806867279921389746
+    second: card decks_1491
+  - first:
+      213: 2387724441401873021
+    second: card decks_1492
+  - first:
+      213: -3420629810176762676
+    second: card decks_1493
+  - first:
+      213: -7024654112584697649
+    second: card decks_1494
+  - first:
+      213: 8214525111453852740
+    second: card decks_1495
+  - first:
+      213: -804742571058470943
+    second: card decks_1496
+  - first:
+      213: 4151071714686388937
+    second: card decks_1497
+  - first:
+      213: 2494722770149319996
+    second: card decks_1498
+  - first:
+      213: -7037411157306303652
+    second: card decks_1499
+  - first:
+      213: 7547599793795753557
+    second: card decks_1500
+  - first:
+      213: 518607430645519990
+    second: card decks_1501
+  - first:
+      213: 658472305416232953
+    second: card decks_1502
+  - first:
+      213: 3064775877499323599
+    second: card decks_1503
+  - first:
+      213: 6980326683786417285
+    second: card decks_1504
+  - first:
+      213: 6393937583669196054
+    second: card decks_1505
+  - first:
+      213: 4555153927961782171
+    second: card decks_1506
+  - first:
+      213: 3006163473443872752
+    second: card decks_1507
+  - first:
+      213: 6632417012068691575
+    second: card decks_1508
+  - first:
+      213: 4711007831366994523
+    second: card decks_1509
+  - first:
+      213: 355340615633975609
+    second: card decks_1510
+  - first:
+      213: -1383518185620634545
+    second: card decks_1511
+  - first:
+      213: -9091932187905129981
+    second: card decks_1512
+  - first:
+      213: -8343649565895315980
+    second: card decks_1513
+  - first:
+      213: -1744954866246065734
+    second: card decks_1514
+  - first:
+      213: 4681068862019196241
+    second: card decks_1515
+  - first:
+      213: -6947710552588713424
+    second: card decks_1516
+  - first:
+      213: 8073465470007841008
+    second: card decks_1517
+  - first:
+      213: 1264494068908385990
+    second: card decks_1518
+  - first:
+      213: -3530642640032013442
+    second: card decks_1519
+  - first:
+      213: 910692925062768044
+    second: card decks_1520
+  - first:
+      213: -4782652038349531741
+    second: card decks_1521
+  - first:
+      213: -6493873237741968519
+    second: card decks_1522
+  - first:
+      213: 5876931662202182926
+    second: card decks_1523
+  - first:
+      213: -6723731906811125301
+    second: card decks_1524
+  - first:
+      213: -6677959486683911763
+    second: card decks_1525
+  - first:
+      213: 1208661103502075605
+    second: card decks_1526
+  - first:
+      213: 7128767802147891478
+    second: card decks_1527
+  - first:
+      213: 4411202311300815693
+    second: card decks_1528
+  - first:
+      213: -7145634736496849708
+    second: card decks_1529
+  - first:
+      213: 2045117389152890469
+    second: card decks_1530
+  - first:
+      213: 3523303135600495578
+    second: card decks_1531
+  - first:
+      213: -5465676148116592394
+    second: card decks_1532
+  - first:
+      213: 6707595898060401292
+    second: card decks_1533
+  - first:
+      213: -435502532771988580
+    second: card decks_1534
+  - first:
+      213: -8132493808479756470
+    second: card decks_1535
+  - first:
+      213: -1478814194722528289
+    second: card decks_1536
+  - first:
+      213: 4245069206251801646
+    second: card decks_1537
+  - first:
+      213: 4308542946510611221
+    second: card decks_1538
+  - first:
+      213: -971199877868496726
+    second: card decks_1539
+  - first:
+      213: -5230828513351832803
+    second: card decks_1540
+  - first:
+      213: 5993745941864853754
+    second: card decks_1541
+  - first:
+      213: -2555894389689309987
+    second: card decks_1542
+  - first:
+      213: 2866460373371119435
+    second: card decks_1543
+  - first:
+      213: 5640563264066500387
+    second: card decks_1544
+  - first:
+      213: -3432069353170694188
+    second: card decks_1545
+  - first:
+      213: -1676737529677581151
+    second: card decks_1546
+  - first:
+      213: -4494538362498041080
+    second: card decks_1547
+  - first:
+      213: -6253705871084665776
+    second: card decks_1548
+  - first:
+      213: -3947702930068251606
+    second: card decks_1549
+  - first:
+      213: 5313534827222815741
+    second: card decks_1550
+  - first:
+      213: 1694512544807838083
+    second: card decks_1551
+  - first:
+      213: 5776639769930409222
+    second: card decks_1552
+  - first:
+      213: -5241706777923701501
+    second: card decks_1553
+  - first:
+      213: 255799203483000485
+    second: card decks_1554
+  - first:
+      213: 6285177109676808253
+    second: card decks_1555
+  - first:
+      213: -3369642525893731792
+    second: card decks_1556
+  - first:
+      213: 8889687243338822485
+    second: card decks_1557
+  - first:
+      213: -437669504221437557
+    second: card decks_1558
+  - first:
+      213: 7688335093809189091
+    second: card decks_1559
+  - first:
+      213: 5171885894829093048
+    second: card decks_1560
+  - first:
+      213: 1238300056820611176
+    second: card decks_1561
+  - first:
+      213: 5374149911152087290
+    second: card decks_1562
+  - first:
+      213: -4590771963523814462
+    second: card decks_1563
+  - first:
+      213: 4466358815074711919
+    second: card decks_1564
+  - first:
+      213: -7284794437851538297
+    second: card decks_1565
+  - first:
+      213: -317535660155042777
+    second: card decks_1566
+  - first:
+      213: 7678862306840675820
+    second: card decks_1567
+  - first:
+      213: -6599529149331897113
+    second: card decks_1568
+  - first:
+      213: -2297546117789306100
+    second: card decks_1569
+  - first:
+      213: -4990556951693992810
+    second: card decks_1570
+  - first:
+      213: 1415808183719281385
+    second: card decks_1571
+  - first:
+      213: 7043605804562242116
+    second: card decks_1572
+  - first:
+      213: 5203227853417588430
+    second: card decks_1573
+  - first:
+      213: 7115456613102879282
+    second: card decks_1574
+  - first:
+      213: 5500264254775386370
+    second: card decks_1575
+  - first:
+      213: 3473830456875396066
+    second: card decks_1576
+  - first:
+      213: -6032351998633490408
+    second: card decks_1577
+  - first:
+      213: 6536747615954941614
+    second: card decks_1578
+  - first:
+      213: -4524296824974826855
+    second: card decks_1579
+  - first:
+      213: 2620670580850459133
+    second: card decks_1580
+  - first:
+      213: 6047405599842567141
+    second: card decks_1581
+  - first:
+      213: -6821088177181111883
+    second: card decks_1582
+  - first:
+      213: -1203921195832721690
+    second: card decks_1583
+  - first:
+      213: 2606626765571821127
+    second: card decks_1584
+  - first:
+      213: -1676084012796097525
+    second: card decks_1585
+  - first:
+      213: 7052329980423862096
+    second: card decks_1586
+  - first:
+      213: -8914409966618680476
+    second: card decks_1587
+  - first:
+      213: 7391347631208275933
+    second: card decks_1588
+  - first:
+      213: -5043399415193252953
+    second: card decks_1589
+  - first:
+      213: 7531043239345009579
+    second: card decks_1590
+  - first:
+      213: 5919680835346721279
+    second: card decks_1591
+  - first:
+      213: -4496746456639535738
+    second: card decks_1592
+  - first:
+      213: -1904412655552366186
+    second: card decks_1593
+  - first:
+      213: 8609224092624845691
+    second: card decks_1594
+  - first:
+      213: -8816858265589545002
+    second: card decks_1595
+  - first:
+      213: 6739785910501466040
+    second: card decks_1596
+  - first:
+      213: 8218913455339083716
+    second: card decks_1597
+  - first:
+      213: -455652707829493066
+    second: card decks_1598
+  - first:
+      213: -5544431385802517830
+    second: card decks_1599
+  - first:
+      213: -2584605615487384114
+    second: card decks_1600
+  - first:
+      213: -7698879696820292867
+    second: card decks_1601
+  - first:
+      213: 7387607429029638302
+    second: card decks_1602
+  - first:
+      213: -4868195439520416988
+    second: card decks_1603
+  - first:
+      213: 4773148721254231990
+    second: card decks_1604
+  - first:
+      213: 8052245369887652029
+    second: card decks_1605
+  - first:
+      213: -7067602511315846442
+    second: card decks_1606
+  - first:
+      213: -5270286030955916929
+    second: card decks_1607
+  - first:
+      213: 224306389122198364
+    second: card decks_1608
+  - first:
+      213: -3210610863933346320
+    second: card decks_1609
+  - first:
+      213: -752199045536797431
+    second: card decks_1610
+  - first:
+      213: 5193912410591568531
+    second: card decks_1611
+  - first:
+      213: 3368763279662532986
+    second: card decks_1612
+  - first:
+      213: 125525177457282026
+    second: card decks_1613
+  - first:
+      213: 8002289890704547217
+    second: card decks_1614
+  - first:
+      213: -749751971925550664
+    second: card decks_1615
+  - first:
+      213: -1808680129961329039
+    second: card decks_1616
+  - first:
+      213: -6932365055460887688
+    second: card decks_1617
+  - first:
+      213: 3809570597257635124
+    second: card decks_1618
+  - first:
+      213: 1754720362462099784
+    second: card decks_1619
+  - first:
+      213: 4270378513456991861
+    second: card decks_1620
+  - first:
+      213: -220851838002681059
+    second: card decks_1621
+  - first:
+      213: -4244016349039738018
+    second: card decks_1622
+  - first:
+      213: -6256519334175047035
+    second: card decks_1623
+  - first:
+      213: 3516367509109814663
+    second: card decks_1624
+  - first:
+      213: 6341953216730751145
+    second: card decks_1625
+  - first:
+      213: 3773705865039903840
+    second: card decks_1626
+  - first:
+      213: -9189971806141811469
+    second: card decks_1627
+  - first:
+      213: -2028911865088370112
+    second: card decks_1628
+  - first:
+      213: 796544823558481817
+    second: card decks_1629
+  - first:
+      213: 5878594509405520694
+    second: card decks_1630
+  - first:
+      213: 6656391007255771499
+    second: card decks_1631
+  - first:
+      213: 2729655357319135589
+    second: card decks_1632
+  - first:
+      213: 2195775419122376073
+    second: card decks_1633
+  - first:
+      213: 3434790933740875974
+    second: card decks_1634
+  - first:
+      213: 6208156243398208258
+    second: card decks_1635
+  - first:
+      213: 3422672646592218424
+    second: card decks_1636
+  - first:
+      213: -2104559573351781432
+    second: card decks_1637
+  - first:
+      213: 6974635554663766388
+    second: card decks_1638
+  - first:
+      213: -7941527699438239090
+    second: card decks_1639
+  - first:
+      213: -3213559239384616678
+    second: card decks_1640
+  - first:
+      213: -4009556696361820156
+    second: card decks_1641
+  - first:
+      213: -7313665747339586282
+    second: card decks_1642
+  - first:
+      213: -8904493372086718659
+    second: card decks_1643
+  - first:
+      213: 9020614975084070025
+    second: card decks_1644
+  - first:
+      213: 8595558414750088335
+    second: card decks_1645
+  - first:
+      213: 5398874763762705809
+    second: card decks_1646
+  - first:
+      213: -5349962958930719276
+    second: card decks_1647
+  - first:
+      213: -2848409605422849018
+    second: card decks_1648
+  - first:
+      213: 2374733390931732305
+    second: card decks_1649
+  - first:
+      213: 1451288319171865859
+    second: card decks_1650
+  - first:
+      213: 8322652278617069541
+    second: card decks_1651
+  - first:
+      213: 4569853314505449030
+    second: card decks_1652
+  - first:
+      213: -7873636396361031171
+    second: card decks_1653
+  - first:
+      213: 4153014526914986274
+    second: card decks_1654
+  - first:
+      213: -1998437811306240700
+    second: card decks_1655
+  - first:
+      213: 9216669576249098219
+    second: card decks_1656
+  - first:
+      213: -1650539496756764442
+    second: card decks_1657
+  - first:
+      213: 278135619501291365
+    second: card decks_1658
+  - first:
+      213: -5217420045567231877
+    second: card decks_1659
+  - first:
+      213: 7330906185785916133
+    second: card decks_1660
+  - first:
+      213: -9057283874926920932
+    second: card decks_1661
+  - first:
+      213: 8353782801816927843
+    second: card decks_1662
+  - first:
+      213: -3247762235326754046
+    second: card decks_1663
+  - first:
+      213: -3716961948404591158
+    second: card decks_1664
+  - first:
+      213: 3726019632630620167
+    second: card decks_1665
+  - first:
+      213: 7785316438760001071
+    second: card decks_1666
+  - first:
+      213: -1045430512917769708
+    second: card decks_1667
+  - first:
+      213: 1940823111036151343
+    second: card decks_1668
+  - first:
+      213: 1697200253243339026
+    second: card decks_1669
+  - first:
+      213: -8752700499478311155
+    second: card decks_1670
+  - first:
+      213: 4689840745884197824
+    second: card decks_1671
+  - first:
+      213: 5486767306722023716
+    second: card decks_1672
+  - first:
+      213: -4160709676359707147
+    second: card decks_1673
+  - first:
+      213: -2520063721521616329
+    second: card decks_1674
+  - first:
+      213: 7354281534874430386
+    second: card decks_1675
+  - first:
+      213: 1275437175477583369
+    second: card decks_1676
+  - first:
+      213: -7404644815916797932
+    second: card decks_1677
+  - first:
+      213: -4264825027946892175
+    second: card decks_1678
+  - first:
+      213: 8428449902448954231
+    second: card decks_1679
+  - first:
+      213: -8627768196986720734
+    second: card decks_1680
+  - first:
+      213: 52727553130363012
+    second: card decks_1681
+  - first:
+      213: -4048361468022883258
+    second: card decks_1682
+  - first:
+      213: 8476502132251948338
+    second: card decks_1683
+  - first:
+      213: -1254388724545756193
+    second: card decks_1684
+  - first:
+      213: 2131560229209800548
+    second: card decks_1685
+  - first:
+      213: -439489295039701124
+    second: card decks_1686
+  - first:
+      213: 3158551947884958584
+    second: card decks_1687
+  - first:
+      213: 6461122053368377068
+    second: card decks_1688
+  - first:
+      213: -2026972700286651606
+    second: card decks_1689
+  - first:
+      213: 3110011247914957840
+    second: card decks_1690
+  - first:
+      213: 5276408816398649251
+    second: card decks_1691
+  - first:
+      213: -7623765717990609868
+    second: card decks_1692
+  - first:
+      213: -6759971602185457659
+    second: card decks_1693
+  - first:
+      213: -5363841897300190489
+    second: card decks_1694
+  - first:
+      213: 2375177096717206892
+    second: card decks_1695
+  - first:
+      213: -7229861612775968181
+    second: card decks_1696
+  - first:
+      213: -6302187509278783693
+    second: card decks_1697
+  - first:
+      213: -5498367786345205979
+    second: card decks_1698
+  - first:
+      213: -835461068172038848
+    second: card decks_1699
+  - first:
+      213: -4078312862888426331
+    second: card decks_1700
+  - first:
+      213: -3845698135359880344
+    second: card decks_1701
+  - first:
+      213: -2010376101549932842
+    second: card decks_1702
+  - first:
+      213: -8404409650531759617
+    second: card decks_1703
+  - first:
+      213: -8091180610953897185
+    second: card decks_1704
+  - first:
+      213: -5053662492343675003
+    second: card decks_1705
+  - first:
+      213: -8510498207423517459
+    second: card decks_1706
+  - first:
+      213: 685692331450633892
+    second: card decks_1707
+  - first:
+      213: 4016992653122174759
+    second: card decks_1708
+  - first:
+      213: 8381325261556167206
+    second: card decks_1709
+  - first:
+      213: -8728392145089508648
+    second: card decks_1710
+  - first:
+      213: -649233966746459658
+    second: card decks_1711
+  - first:
+      213: 6321093056134036591
+    second: card decks_1712
+  - first:
+      213: 915497530803558827
+    second: card decks_1713
+  - first:
+      213: 7024259464078573460
+    second: card decks_1714
+  - first:
+      213: 3411483426362176031
+    second: card decks_1715
+  - first:
+      213: -1121079943024053564
+    second: card decks_1716
+  - first:
+      213: 4392174422413622990
+    second: card decks_1717
+  - first:
+      213: -6438949146153707088
+    second: card decks_1718
+  - first:
+      213: -6280389711624973116
+    second: card decks_1719
+  - first:
+      213: 7065355567530643020
+    second: card decks_1720
+  - first:
+      213: -708790452116420580
+    second: card decks_1721
+  - first:
+      213: -6665120453088433622
+    second: card decks_1722
+  - first:
+      213: -5229290717058807638
+    second: card decks_1723
+  - first:
+      213: -607533381555813211
+    second: card decks_1724
+  - first:
+      213: 6254415188980029799
+    second: card decks_1725
+  - first:
+      213: -5867566043387396269
+    second: card decks_1726
+  - first:
+      213: -4622148412270396663
+    second: card decks_1727
+  - first:
+      213: -1882778097736266979
+    second: card decks_1728
+  - first:
+      213: 8303838593163499088
+    second: card decks_1729
+  - first:
+      213: 6310709093218565852
+    second: card decks_1730
+  - first:
+      213: 7465429887176957506
+    second: card decks_1731
+  - first:
+      213: 178407239453607201
+    second: card decks_1732
+  - first:
+      213: -1900957172388231021
+    second: card decks_1733
+  - first:
+      213: -5395227827449941546
+    second: card decks_1734
+  - first:
+      213: 4161116319845056310
+    second: card decks_1735
+  - first:
+      213: -4352827345373571498
+    second: card decks_1736
+  - first:
+      213: 795460289263817193
+    second: card decks_1737
+  - first:
+      213: -5736163773482114906
+    second: card decks_1738
+  - first:
+      213: -6049099661733243188
+    second: card decks_1739
+  - first:
+      213: 3093640549258921977
+    second: card decks_1740
+  - first:
+      213: -2450767882067635830
+    second: card decks_1741
+  - first:
+      213: 660831646771564231
+    second: card decks_1742
+  - first:
+      213: -4683592784495965378
+    second: card decks_1743
+  - first:
+      213: 8997388658027761228
+    second: card decks_1744
+  - first:
+      213: 1344366836645366050
+    second: card decks_1745
+  - first:
+      213: -4821651235239572763
+    second: card decks_1746
+  - first:
+      213: -1454680031522026843
+    second: card decks_1747
+  - first:
+      213: 8129270961985515669
+    second: card decks_1748
+  - first:
+      213: -3016097910793740828
+    second: card decks_1749
+  - first:
+      213: -4976832420960570562
+    second: card decks_1750
+  - first:
+      213: -5025704848575082582
+    second: card decks_1751
+  - first:
+      213: 5421959551609516341
+    second: card decks_1752
+  - first:
+      213: 3766924818041871520
+    second: card decks_1753
+  - first:
+      213: 1476081558959410353
+    second: card decks_1754
+  - first:
+      213: 2070658035258610602
+    second: card decks_1755
+  - first:
+      213: 8574683598531536372
+    second: card decks_1756
+  - first:
+      213: -6995646556225943697
+    second: card decks_1757
+  - first:
+      213: -6691051920802990638
+    second: card decks_1758
+  - first:
+      213: -7214773234011073017
+    second: card decks_1759
+  - first:
+      213: 9099421808434295182
+    second: card decks_1760
+  - first:
+      213: -4071670252144935139
+    second: card decks_1761
+  - first:
+      213: -8424464450879152138
+    second: card decks_1762
+  - first:
+      213: -6653343703185869662
+    second: card decks_1763
+  - first:
+      213: 8919704400168477500
+    second: card decks_1764
+  - first:
+      213: 7536326150736948391
+    second: card decks_1765
+  - first:
+      213: -8042465727466857155
+    second: card decks_1766
+  - first:
+      213: 2979297141208968665
+    second: card decks_1767
+  - first:
+      213: -4627462295405248643
+    second: card decks_1768
+  - first:
+      213: 8772256232246293617
+    second: card decks_1769
+  - first:
+      213: 6850698804206999580
+    second: card decks_1770
+  - first:
+      213: 785793090928686988
+    second: card decks_1771
+  - first:
+      213: 2405244621089224569
+    second: card decks_1772
+  - first:
+      213: 6239923434511964750
+    second: card decks_1773
+  - first:
+      213: -7328715223200135325
+    second: card decks_1774
+  - first:
+      213: 91461970039086769
+    second: card decks_1775
+  - first:
+      213: 4485084929792511596
+    second: card decks_1776
+  - first:
+      213: 3163766527793401879
+    second: card decks_1777
+  - first:
+      213: 8924817176862709234
+    second: card decks_1778
+  - first:
+      213: -7277115887137438788
+    second: card decks_1779
+  - first:
+      213: 5621821151528733837
+    second: card decks_1780
+  - first:
+      213: -6673773229173130228
+    second: card decks_1781
+  - first:
+      213: -7242901955128543434
+    second: card decks_1782
+  - first:
+      213: 7016405094010927673
+    second: card decks_1783
+  - first:
+      213: 7105059516544243769
+    second: card decks_1784
+  - first:
+      213: 6953469384956653415
+    second: card decks_1785
+  - first:
+      213: 3800065548836224380
+    second: card decks_1786
+  - first:
+      213: -3121637243730862528
+    second: card decks_1787
+  - first:
+      213: -5992548093474372360
+    second: card decks_1788
+  - first:
+      213: -98802734855661479
+    second: card decks_1789
+  - first:
+      213: 4568919964296203695
+    second: card decks_1790
+  - first:
+      213: -8912488507572548637
+    second: card decks_1791
+  - first:
+      213: 6150597327252313013
+    second: card decks_1792
+  - first:
+      213: -420711946767016402
+    second: card decks_1793
+  - first:
+      213: -8680401241623338260
+    second: card decks_1794
+  - first:
+      213: 1274490715105024112
+    second: card decks_1795
+  - first:
+      213: 923134743124638520
+    second: card decks_1796
+  - first:
+      213: 7164492913185764675
+    second: card decks_1797
+  - first:
+      213: -2578577143636559714
+    second: card decks_1798
+  - first:
+      213: -3914939316734429728
+    second: card decks_1799
+  - first:
+      213: 8308041181393582052
+    second: card decks_1800
+  - first:
+      213: 157483802436825967
+    second: card decks_1801
+  - first:
+      213: 7067097792269646678
+    second: card decks_1802
+  - first:
+      213: -5678645802298974905
+    second: card decks_1803
+  - first:
+      213: 4878811262442879169
+    second: card decks_1804
+  - first:
+      213: 1032779059831467783
+    second: card decks_1805
+  - first:
+      213: 8045131159861658941
+    second: card decks_1806
+  - first:
+      213: 1932726771698376501
+    second: card decks_1807
+  - first:
+      213: -7027540305561558838
+    second: card decks_1808
+  - first:
+      213: -8505251707707852978
+    second: card decks_1809
+  - first:
+      213: 117564697180851040
+    second: card decks_1810
+  - first:
+      213: -8829001245135284395
+    second: card decks_1811
+  - first:
+      213: 1057744547907163430
+    second: card decks_1812
+  - first:
+      213: 7692969020242526652
+    second: card decks_1813
+  - first:
+      213: -1669575659524395836
+    second: card decks_1814
+  - first:
+      213: -2393977026199518837
+    second: card decks_1815
+  - first:
+      213: -1218200039648101048
+    second: card decks_1816
+  - first:
+      213: 893557758538581034
+    second: card decks_1817
+  - first:
+      213: -8562877748411074887
+    second: card decks_1818
+  - first:
+      213: -2752717367568524648
+    second: card decks_1819
+  - first:
+      213: -2464642801901973637
+    second: card decks_1820
+  - first:
+      213: -5283722165167746611
+    second: card decks_1821
+  - first:
+      213: -3620497757703231302
+    second: card decks_1822
+  - first:
+      213: 5424537998649844683
+    second: card decks_1823
+  - first:
+      213: 2711338723885725955
+    second: card decks_1824
+  - first:
+      213: 8666256918053158166
+    second: card decks_1825
+  - first:
+      213: 7436176643012393081
+    second: card decks_1826
+  - first:
+      213: -2763343286200655933
+    second: card decks_1827
+  - first:
+      213: -4179059346612774879
+    second: card decks_1828
+  - first:
+      213: -1748973586547684183
+    second: card decks_1829
+  - first:
+      213: 6066628745679966619
+    second: card decks_1830
+  - first:
+      213: 443195693764693801
+    second: card decks_1831
+  - first:
+      213: -1071516512100946659
+    second: card decks_1832
+  - first:
+      213: 5088160054685442983
+    second: card decks_1833
+  - first:
+      213: -7847541599806085186
+    second: card decks_1834
+  - first:
+      213: -4361610055957909011
+    second: card decks_1835
+  - first:
+      213: -4665337985690338279
+    second: card decks_1836
+  - first:
+      213: 3506781844749402302
+    second: card decks_1837
+  - first:
+      213: 2284784939788973301
+    second: card decks_1838
+  - first:
+      213: -5690294491194382577
+    second: card decks_1839
+  - first:
+      213: -754302098645915868
+    second: card decks_1840
+  - first:
+      213: 7435309672153290633
+    second: card decks_1841
+  - first:
+      213: 8692533513950731796
+    second: card decks_1842
+  - first:
+      213: -332403073538905064
+    second: card decks_1843
+  - first:
+      213: 861215046649214297
+    second: card decks_1844
+  - first:
+      213: -4773610449065292450
+    second: card decks_1845
+  - first:
+      213: 332334399972178049
+    second: card decks_1846
+  - first:
+      213: -2771620499027211207
+    second: card decks_1847
+  - first:
+      213: 5708799723929611544
+    second: card decks_1848
+  - first:
+      213: 867030823526500426
+    second: card decks_1849
+  - first:
+      213: -2303523133999617570
+    second: card decks_1850
+  - first:
+      213: 7057332820004728059
+    second: card decks_1851
+  - first:
+      213: 6414706207083158935
+    second: card decks_1852
+  - first:
+      213: -8129427903780764759
+    second: card decks_1853
+  - first:
+      213: 2387248293565705284
+    second: card decks_1854
+  - first:
+      213: 3354942835130078359
+    second: card decks_1855
+  - first:
+      213: -7302693132118344579
+    second: card decks_1856
+  - first:
+      213: -3305227570301828196
+    second: card decks_1857
+  - first:
+      213: 4225703141441247287
+    second: card decks_1858
+  - first:
+      213: -7874172575102567883
+    second: card decks_1859
+  - first:
+      213: 93469377246641903
+    second: card decks_1860
+  - first:
+      213: -4113018000384280824
+    second: card decks_1861
+  - first:
+      213: -6734981972518342311
+    second: card decks_1862
+  - first:
+      213: -5191818846692832627
+    second: card decks_1863
+  - first:
+      213: -1921328690103515699
+    second: card decks_1864
+  - first:
+      213: -244017099310259651
+    second: card decks_1865
+  - first:
+      213: 7748721681165703327
+    second: card decks_1866
+  - first:
+      213: 7664623546658885905
+    second: card decks_1867
+  - first:
+      213: 520703854571902080
+    second: card decks_1868
+  - first:
+      213: 8853736336243918808
+    second: card decks_1869
+  - first:
+      213: -6423532552403604902
+    second: card decks_1870
+  - first:
+      213: 7292457259818003284
+    second: card decks_1871
+  - first:
+      213: 4073080962557763850
+    second: card decks_1872
+  - first:
+      213: -6576672385593972791
+    second: card decks_1873
+  - first:
+      213: 6998704605660900880
+    second: card decks_1874
+  - first:
+      213: -6295802455951818247
+    second: card decks_1875
+  - first:
+      213: -8596754324676441633
+    second: card decks_1876
+  - first:
+      213: 8493955194050249671
+    second: card decks_1877
+  - first:
+      213: -3270297902248665069
+    second: card decks_1878
+  - first:
+      213: -5870558362970043710
+    second: card decks_1879
+  - first:
+      213: -4452462194199206546
+    second: card decks_1880
+  - first:
+      213: -5660151443744943797
+    second: card decks_1881
+  - first:
+      213: 2185763168965359892
+    second: card decks_1882
+  - first:
+      213: -4375348311973623216
+    second: card decks_1883
+  - first:
+      213: 1852480045891481973
+    second: card decks_1884
+  - first:
+      213: 6195494070999484461
+    second: card decks_1885
+  - first:
+      213: -712579683171642262
+    second: card decks_1886
+  - first:
+      213: -4028978097863000358
+    second: card decks_1887
+  - first:
+      213: -3630867203619385367
+    second: card decks_1888
+  - first:
+      213: -8359449827303231031
+    second: card decks_1889
+  - first:
+      213: 4981774809063380614
+    second: card decks_1890
+  - first:
+      213: -5427448495674213904
+    second: card decks_1891
+  - first:
+      213: 6214922699992456578
+    second: card decks_1892
+  - first:
+      213: 7486759514170193422
+    second: card decks_1893
+  - first:
+      213: -7053775692041991360
+    second: card decks_1894
+  - first:
+      213: 7085534065030613276
+    second: card decks_1895
+  - first:
+      213: 3987483696534681856
+    second: card decks_1896
+  - first:
+      213: -6553564548326063052
+    second: card decks_1897
+  - first:
+      213: 3902414448782312802
+    second: card decks_1898
+  - first:
+      213: 9160323481694213669
+    second: card decks_1899
+  - first:
+      213: -6873189358805674268
+    second: card decks_1900
+  - first:
+      213: 7742282822505361513
+    second: card decks_1901
+  - first:
+      213: 1043334907375793083
+    second: card decks_1902
+  - first:
+      213: 2500904363469664080
+    second: card decks_1903
+  - first:
+      213: -7690588248614625653
+    second: card decks_1904
+  - first:
+      213: -2145184571447096079
+    second: card decks_1905
+  - first:
+      213: -4770335042001305443
+    second: card decks_1906
+  - first:
+      213: -906253113525076394
+    second: card decks_1907
+  - first:
+      213: -3706693265447532450
+    second: card decks_1908
+  - first:
+      213: 7736532472672496083
+    second: card decks_1909
+  - first:
+      213: 5487481615899381700
+    second: card decks_1910
+  - first:
+      213: -3409556617911081292
+    second: card decks_1911
+  - first:
+      213: 6591141685488557306
+    second: card decks_1912
+  - first:
+      213: 3408190909951686083
+    second: card decks_1913
+  - first:
+      213: -4609661129243980459
+    second: card decks_1914
+  - first:
+      213: -7165957443090081325
+    second: card decks_1915
+  - first:
+      213: 1532645120052211370
+    second: card decks_1916
+  - first:
+      213: -7659273785026452307
+    second: card decks_1917
+  - first:
+      213: 7978992163943665576
+    second: card decks_1918
+  - first:
+      213: -8171176255833229140
+    second: card decks_1919
+  - first:
+      213: -2241336197793666334
+    second: card decks_1920
+  - first:
+      213: 6090333330817727481
+    second: card decks_1921
+  - first:
+      213: -4000720562727903086
+    second: card decks_1922
+  - first:
+      213: -9216767603774424929
+    second: card decks_1923
+  - first:
+      213: 5490244737671546885
+    second: card decks_1924
+  - first:
+      213: 9206936993838189453
+    second: card decks_1925
+  - first:
+      213: -5773679319516734602
+    second: card decks_1926
+  - first:
+      213: 1458184287821958970
+    second: card decks_1927
+  - first:
+      213: -5612492416974493780
+    second: card decks_1928
+  - first:
+      213: -71244351273622060
+    second: card decks_1929
+  - first:
+      213: -8236304550208389786
+    second: card decks_1930
+  - first:
+      213: -1663777192248906037
+    second: card decks_1931
+  - first:
+      213: -1615611455400720839
+    second: card decks_1932
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: card decks_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 800
+        width: 338
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4107f2d2c247840800000000000000
+      internalID: 5220846440610272463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card decks_3
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 607
+        width: 338
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc19bd6ece818330800000000000000
+      internalID: 3711404585185254591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card decks_5
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 415
+        width: 340
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb59609258ea38050800000000000000
+      internalID: 5801672631925511615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card decks_7
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 220
+        width: 340
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e789c7c684f721a70800000000000000
+      internalID: 8796232971242477694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card decks_9
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 22
+        width: 340
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b756f7c7704dadf0800000000000000
+      internalID: -167406727942744144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

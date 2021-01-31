@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Tiles : MonoBehaviour
+public class Tiles
 {
     private bool isFull;
     private bool isDead;

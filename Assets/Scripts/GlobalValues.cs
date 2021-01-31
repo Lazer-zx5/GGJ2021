@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
+using UnityEngine.UI;
 
 
 public static class GlobalValues
@@ -15,13 +16,22 @@ public static class GlobalValues
     public struct Card_t
     {
         int cost;
-        int subject;
+        string subject;
         int type;
+        GameObject cardPrefab;
 
         public int Cost { get => cost; set => cost = value; }
-        public int Subject { get => subject; set => subject = value; }
+        public string Subject { get => subject; set => subject = value; }
         public int Type { get => type; set => type = value; }
+        public GameObject CardPrefab { get => cardPrefab; set => cardPrefab = value; }
     };
+
+    public static void CreateCardGameObject(this Card_t card) {
+        GameObject cardObj = GameObject.Instantiate(card.CardPrefab, GameObject.Find("Main Game Canvas").transform);
+        cardObj.transform.GetChild(0).GetComponent<Text>().text = card.Subject.ToUpper();
+        cardObj.transform.GetChild(2).GetComponent<Text>().text = $"+{card.Cost}";
+    }
+
 
     public static void Shuffle<T>(this List<T> ts)
     {

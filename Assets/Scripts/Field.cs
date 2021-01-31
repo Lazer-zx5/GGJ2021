@@ -2,14 +2,17 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
-public class Field : MonoBehaviour
+public class Field
 {
     private int fieldSize;
     private Tiles[] mainField;
     private int currentTileNumber;
+    private Color inactiveColor = new Color(.4f, .4f, .4f, .6f);
+    private Color activeColor = new Color(.05f, 1f, 1f);
 
-    public Field(int fieldSize, int playerCount)
+    public Field(int fieldSize, int playerCount, List<GameObject> tileObjects)
     {
         this.fieldSize = fieldSize;
         mainField = new Tiles[fieldSize];
@@ -17,10 +20,16 @@ public class Field : MonoBehaviour
         for (int i = 0; i < fieldSize; i++)
             mainField[i] = new Tiles(false, false, false, 0);
 
-        int j = 0;
+        foreach (var tile in tileObjects)
+        {
+            tile.GetComponent<Image>().color = inactiveColor;
+        }
+
+        int j = 10;
         while(playerCount-- != 0)
         {
             mainField[j++].IsOpened = true;
+            tileObjects[j].GetComponent<Image>().color = activeColor;
         }
     }
 
