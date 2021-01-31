@@ -7,11 +7,11 @@ public class Cards : MonoBehaviour
 {
     private List<int> data = new List<int>(new [] { 2, 2, 2, 2, 2, 4, 4, 4, 4, 6, 6, 6, 8, 8, 10});
 
-    private Dictionary<GlobalValues.ScienceSubjects_t, Stack<int>> science;
     private Dictionary<GlobalValues.ArtSubjects_t, Stack<int>> art;
-    private Dictionary<GlobalValues.EntertainmentSubjects_t, Stack<int>> entertainment;
-    private Dictionary<GlobalValues.HumanitiesSubjects_t, Stack<int>> humanity;
     private Dictionary<GlobalValues.SportsSubjects_t, Stack<int>> sports;
+    private Dictionary<GlobalValues.ScienceSubjects_t, Stack<int>> science;
+    private Dictionary<GlobalValues.HumanitiesSubjects_t, Stack<int>> humanity;
+    private Dictionary<GlobalValues.EntertainmentSubjects_t, Stack<int>> entertainment;
 
     private void generateStacks<StackType>(ref Dictionary<StackType, Stack<int>> dest)
     {
@@ -24,20 +24,20 @@ public class Cards : MonoBehaviour
 
     public void InitCards()
     {
-        generateStacks<GlobalValues.ScienceSubjects_t>(ref science);
         generateStacks<GlobalValues.ArtSubjects_t>(ref art);
-        generateStacks<GlobalValues.EntertainmentSubjects_t>(ref entertainment);
-        generateStacks<GlobalValues.HumanitiesSubjects_t>(ref humanity);
         generateStacks<GlobalValues.SportsSubjects_t>(ref sports);
+        generateStacks<GlobalValues.ScienceSubjects_t>(ref science);
+        generateStacks<GlobalValues.HumanitiesSubjects_t>(ref humanity);
+        generateStacks<GlobalValues.EntertainmentSubjects_t>(ref entertainment);
     }
 
     public Cards()
     {
-        science = new Dictionary<GlobalValues.ScienceSubjects_t, Stack<int>>();
         art = new Dictionary<GlobalValues.ArtSubjects_t, Stack<int>>();
-        entertainment = new Dictionary<GlobalValues.EntertainmentSubjects_t, Stack<int>>();
-        humanity = new Dictionary<GlobalValues.HumanitiesSubjects_t, Stack<int>>();
         sports = new Dictionary<GlobalValues.SportsSubjects_t, Stack<int>>();
+        science = new Dictionary<GlobalValues.ScienceSubjects_t, Stack<int>>();
+        humanity = new Dictionary<GlobalValues.HumanitiesSubjects_t, Stack<int>>();
+        entertainment = new Dictionary<GlobalValues.EntertainmentSubjects_t, Stack<int>>();
     }
 
     public GlobalValues.Card_t GetCard(GlobalValues.DiceFaces_t face)

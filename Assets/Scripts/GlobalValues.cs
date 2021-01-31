@@ -1,12 +1,11 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using System.Linq;
+﻿using System.Linq;
 using UnityEngine;
-
+using System.Collections;
+using System.Collections.Generic;
 
 public static class GlobalValues
 {
-    public static int tilePrice = 2;
+    public static int tilePrice = 4;
     public static int tileCount = 24;
     public static int subjectCount = 5;
     public static int tileMaxCoins = 30;
@@ -14,13 +13,13 @@ public static class GlobalValues
 
     public struct Card_t
     {
+        int type;
         int cost;
         int subject;
-        int type;
 
         public int Cost { get => cost; set => cost = value; }
-        public int Subject { get => subject; set => subject = value; }
         public int Type { get => type; set => type = value; }
+        public int Subject { get => subject; set => subject = value; }
     };
 
     public static void Shuffle<T>(this List<T> ts)
@@ -41,15 +40,13 @@ public static class GlobalValues
         OKAY = 0,
         TILE_NOT_AVAILABLE = int.MinValue,
         TILE_IS_DEAD
-
-        
     };
 
     public enum DiceFaces_t
     {
-        SCIENCE,
         ART,
         SPORTS,
+        SCIENCE,
         HUMANITIES,
         ENTERTAINMENT,
         KARMA
@@ -75,28 +72,28 @@ public static class GlobalValues
 
     public enum EntertainmentSubjects_t
     { 
+        PETS,
         GAMING,
-        PARTYING,
         MOVIES,
         HIKING,
-        PETS
+        PARTYING
     };
 
     public enum ArtSubjects_t
     {
-        DRAWING,
         MUSIC,
-        DANCING,
         POETRY,
+        DANCING,
+        DRAWING,
         POTTERY
     };
 
     public enum HumanitiesSubjects_t
     {
-        LANGUAGES,
-        CULTURES,
+        LAW,
         TOURISM,
-        ARCHEOLOGY,
-        LAW
+        CULTURES,
+        LANGUAGES,
+        ARCHEOLOGY
     };
 }

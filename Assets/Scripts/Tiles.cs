@@ -1,14 +1,14 @@
-﻿using System.Collections;
+﻿using UnityEngine;
+using System.Collections;
 using System.Collections.Generic;
-using UnityEngine;
 
 public class Tiles : MonoBehaviour
 {
     private bool isFull;
     private bool isDead;
+    private Player owner;
     private bool isOpened;
     private int tilePoints;
-    private Player owner;
 
     public Tiles(bool isOpened, bool isDead, bool isFull, int tilePoints)
     {

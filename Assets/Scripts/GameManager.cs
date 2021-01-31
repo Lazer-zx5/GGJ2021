@@ -1,19 +1,20 @@
-﻿using System.Collections;
+﻿using UnityEngine;
+using System.Collections;
 using System.Collections.Generic;
-using UnityEngine;
 
 public class GameManager : MonoBehaviour
 {
-    private Field mainField;
-    private List<Player> players;
     private Cards cards;
-    private int currentPlayer;
+    private Field mainField;
     private int playerCount;
+    private int currentPlayer;
+    private List<Player> players;
 
     public void InitGame(int playerCount, int fieldCount, string [] playerColors, string [] playerNames)
     {
         this.currentPlayer = 0;
         this.playerCount = playerCount;
+
         mainField = new Field(fieldCount, playerCount);
         players = new List<Player>();
         cards = new Cards();
