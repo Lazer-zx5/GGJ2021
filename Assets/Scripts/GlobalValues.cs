@@ -18,19 +18,11 @@ public static class GlobalValues
         int cost;
         string subject;
         int type;
-        GameObject cardPrefab;
 
         public int Cost { get => cost; set => cost = value; }
         public string Subject { get => subject; set => subject = value; }
         public int Type { get => type; set => type = value; }
-        public GameObject CardPrefab { get => cardPrefab; set => cardPrefab = value; }
     };
-
-    public static void CreateCardGameObject(this Card_t card) {
-        GameObject cardObj = GameObject.Instantiate(card.CardPrefab, GameObject.Find("Main Game Canvas").transform);
-        cardObj.transform.GetChild(0).GetComponent<Text>().text = card.Subject.ToUpper();
-        cardObj.transform.GetChild(2).GetComponent<Text>().text = $"+{card.Cost}";
-    }
 
 
     public static void Shuffle<T>(this List<T> ts)
@@ -96,9 +88,9 @@ public static class GlobalValues
     {
         DRAWING,
         MUSIC,
-        DANCING,
         POETRY,
-        POTTERY
+        POTTERY,
+        DANCING
     };
 
     public enum HumanitiesSubjects_t
