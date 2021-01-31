@@ -149,6 +149,7 @@ public class GameManager : MonoBehaviour
             cardObj.transform.GetChild(2).GetComponent<Text>().text = $"+{currentCard.Cost}";
 
             players[currentPlayer].CurrentCard = currentCard;
+            HighlightAvailableFields(currentCard.Subject);
 
             if (GlobalValues.Status_t.OKAY != Play(players[currentPlayer], mainField.CurrentTileNumber))
             {
@@ -158,5 +159,17 @@ public class GameManager : MonoBehaviour
 
         if (currentPlayer == playerCount - 1)
             mainField.EndOfYear();
+    }
+
+    public void HighlightAvailableFields(string skill)
+    {
+        int i = 0;
+        foreach (var tile in mainField.MainField)
+        {
+            if ((!tile.Skill.Equals(skill) && players[currentPlayer].CurrentCard.Cost >= GlobalValues.tilePrice) || tile.IsOpened)
+                tileObjects[i].GetComponent<Image>().color = new Color(1, .7F, 0);
+
+            i++;
+        }
     }
 }

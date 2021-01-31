@@ -7,7 +7,7 @@ using UnityEngine.UI;
 
 public static class GlobalValues
 {
-    public static int tilePrice = 2;
+    public static int tilePrice = 4;
     public static int tileCount = 24;
     public static int subjectCount = 5;
     public static int tileMaxCoins = 30;

@@ -9,6 +9,7 @@ public class Tiles
     private bool isOpened;
     private int tilePoints;
     private Player owner;
+    private string skill;
 
     public Tiles(bool isOpened, bool isDead, bool isFull, int tilePoints)
     {
@@ -17,6 +18,7 @@ public class Tiles
         this.isFull = isFull;
         this.isOpened = isOpened;
         this.tilePoints = tilePoints;
+        this.skill = "";
     }
 
     public Player Owner { get => owner; set => owner = value; }
@@ -24,4 +26,5 @@ public class Tiles
     public bool IsFull { get => isFull; set => isFull = value; }
     public bool IsOpened { get => isOpened; set => isOpened = value; }
     public int TilePoints { get => tilePoints; set => tilePoints = value; }
+    public string Skill { get => skill; set => skill = value; }
 }

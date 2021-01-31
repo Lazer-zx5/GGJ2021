@@ -96,6 +96,12 @@ public class Field
 
     public GlobalValues.Status_t PutCard(GlobalValues.Card_t currentCard, int tileNumber, ref Player player, int coins)
     {
+        if (mainField[tileNumber].IsOpened && mainField[tileNumber].Skill == "")
+            mainField[tileNumber].Skill = player.CurrentCard.Subject;
+
+        if (mainField[tileNumber].IsOpened && !mainField[tileNumber].Skill.Equals(player.CurrentCard.Subject))
+            return GlobalValues.Status_t.TILE_NOT_AVAILABLE;
+
         if (mainField[tileNumber].IsOpened && !mainField[tileNumber].IsFull)
         {
             mainField[tileNumber].TilePoints = (mainField[tileNumber].TilePoints + coins > GlobalValues.tileMaxCoins) ? GlobalValues.tileMaxCoins : mainField[tileNumber].TilePoints + coins;
@@ -103,7 +109,6 @@ public class Field
             {
                 mainField[tileNumber].IsFull = true;
             }
-
             player.Points += coins;
         }
         else if (mainField[tileNumber].IsFull || !mainField[tileNumber].IsOpened)
